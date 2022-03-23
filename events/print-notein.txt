@@ -1,0 +1,1 @@
+/midinote.1/in/notelist/print 1;

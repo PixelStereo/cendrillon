@@ -1,0 +1,1 @@
+/modul8.4/color/alpha 1. 5000;/modul8.4/auto/move/size 0.8 3000;3000;/modul8.4/auto/move/size 0. 3000;3000;

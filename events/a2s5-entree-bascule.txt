@@ -1,0 +1,1 @@
+/modul8.9/color/add/blue 0.3 5000;/modul8.9/color/add/red 0.8 5000;/modul8.9/rate 0.1 5000;/modul8.9/auto/rotate/z 0.04;5000;

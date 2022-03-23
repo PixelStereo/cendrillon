@@ -1,0 +1,1 @@
+** ...oublie "sa mere" -> geste noir;// /shutter/cour 1;// /shutter/jardin 1;// /shutter/lointain 1;/modul8.7/color/alpha 0.;// --------------------Declenchement a1s1 par MIDI-lumiere-----------------;/midinote.1/note.1/map /cuesheet.1/go 64. 64. 0. 1. trig 0. 0 0 0. 0. b;

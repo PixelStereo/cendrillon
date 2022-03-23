@@ -1,0 +1,1 @@
+/modul8.3/entrypoint 0.;/modul8.3/color/alpha 1. 5000;/modul8.1/color/alpha 0. 5000;/modul8.2/color/alpha 0. 5000;5000;// /shutter/cour 1;// /shutter/jardin 1;

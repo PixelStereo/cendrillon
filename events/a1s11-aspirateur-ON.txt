@@ -1,0 +1,1 @@
+// /shutter/lointain 0;// /shutter/cour 0;// /shutter/jardin 0;/modul8/set/B 8;/modul8.9/blur/sw 1;/modul8.9/noise/sw 0;/modul8.9/rot/x 0.07;/modul8.7/rot/z 0.95;/modul8.7/pos/x -20.42;/modul8.7/pos/y -93.61;/modul8.9/auto/move/speed 0;/modul8.9/auto/move/sw 1;/modul8.7/color/alpha 1;/modul8.9/color/alpha 1;/modul8.9/auto/move/speed 0.02;

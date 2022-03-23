@@ -1,0 +1,1 @@
+/modul8.7/auto/rotate/x/reverse 0;/modul8.7/auto/rotate/x 0.1;5000;/modul8.7/auto/rotate/x/reverse 1;5000;/events.1/play /a2s6-chanson-transfo-2;

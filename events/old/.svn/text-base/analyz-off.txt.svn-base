@@ -1,0 +1,5 @@
+** replace for comment;
+/son /musik/sw 0;
+/son /voix/sw 0;
+/mapper.1/init bang;
+/mapper.2/init bang;

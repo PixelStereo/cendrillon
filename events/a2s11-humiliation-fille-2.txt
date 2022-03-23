@@ -1,0 +1,1 @@
+/modul8.5/color/alpha 1;/modul8.4/color/alpha 0.45;// /shutter/lointain 0;// /shutter/cour 0;

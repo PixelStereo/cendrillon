@@ -1,0 +1,1 @@
+/modul8.10/color/alpha 1.;

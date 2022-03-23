@@ -1,0 +1,1 @@
+/layer.1/color/alpha 0;/layer.2/color/alpha 0;10;/vdmx /mediabin.1/dest 0 /vdmx  /mediabin.1/read/galets.mov 0 /vdmx  /mediabin.1/read/galets.mov 1 10;/layer.1/color/alpha 1. 10000 0.1;

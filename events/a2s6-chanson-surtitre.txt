@@ -1,0 +1,1 @@
+/modul8.6/color/alpha 0.;/modul8.6/entrypoint 0.;/modul8.6/color/alpha 1.;

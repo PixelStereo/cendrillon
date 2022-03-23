@@ -1,0 +1,1 @@
+** "... pose ce sac!!"-> OFF rien derriere;// /shutter/lointain 1;// /shutter/cour 1;// /shutter/jardin 1;/random.1/init bang;100;/modul8.9/color/alpha 0;/modul8.10/color/alpha 0;// --------------------Declenchement a1s1 par MIDI-lumiere-----------------;/midinote.1/note.1/map /cuesheet.1/go 64. 64. 0. 1. trig 0. 0 0 0. 0. b;;

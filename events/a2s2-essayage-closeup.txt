@@ -1,0 +1,1 @@
+// /events.2/play visca/essayage-closeup;/modul8.10/auto/move/speed 0.114286 8000 0.05;/modul8.8/color/alpha 0. 5000;8000;

@@ -1,0 +1,1 @@
+/modul8.7/color/alpha 0;/modul8.8/color/alpha 0;/modul8.9/color/alpha 0;/mapper.2/init bang;/mapper.3/init bang;// /shutter/lointain 1;// /shutter/cour 1;// /shutter/jardin 1;

@@ -1,0 +1,1 @@
+/modul8/set/B 4;// -------------------------------------;// /modul8.3/color/alpha 0.5;// /modul8.4/color/alpha 0.5;// /modul8.6/color/alpha 1.;/modul8.9/color/alpha 0.85;/modul8.10/color/alpha 0.28;
