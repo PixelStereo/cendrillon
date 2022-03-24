@@ -1,2 +1,2 @@
-** replace for comment;
-/isadora /shutter/jardin 0;
+** replace for comment
+/isadora /shutter/jardin 0

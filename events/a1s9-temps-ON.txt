@@ -1,2 +1,1 @@
-** Lance par LUMIERE;/modul8/set/A 6;/midinote.1/note.1/map/delete /cuesheet.1/go;/modul8.4/entrypoint 0;/modul8.4/color/alpha 1. 4000;7000;/modul8.3/color/alpha 0.5 3500;3500;
-/modul8.4/color/alpha 0. 6000;// Version Ciel;// /modul8/set/B 4;// /modul8/set/A 4;// /modul8.3/color/alpha 1;// /modul8.7/color/alpha 0.;// /modul8.7/entrypoint 0.;/// modul8.7/color/alpha 1. 2000 -0.1;
+** Lance par LUMIERE/modul8/set/A 6/midinote.1/note.1/map/delete /cuesheet.1/go/modul8.4/entrypoint 0/modul8.4/color/alpha 1. 40007000/modul8.3/color/alpha 0.5 35003500/modul8.4/color/alpha 0. 6000// Version Ciel// /modul8/set/B 4// /modul8/set/A 4// /modul8.3/color/alpha 1// /modul8.7/color/alpha 0.// /modul8.7/entrypoint 0./// modul8.7/color/alpha 1. 2000 -0.1

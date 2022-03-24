@@ -1,1 +1,1 @@
-/events.1/play a2s5-entree;
+/events.1/play a2s5-entree

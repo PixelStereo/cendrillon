@@ -1,1 +1,1 @@
-** "Nouvelle phrase";/modul8.2/name 92;100;/modul8.2/color/alpha 1. 800 0.1;
+** "Nouvelle phrase"/modul8.2/name 92100/modul8.2/color/alpha 1. 800 0.1

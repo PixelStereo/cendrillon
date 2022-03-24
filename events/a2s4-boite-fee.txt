@@ -1,2 +1,1 @@
-// ------------------------------------------------;/modul8.4/auto/color/sw 1;/modul8.5/auto/color/sw 1;
-/modul8.4/auto/rotate/z 0.2 400;/modul8.5/auto/rotate/z 0.3 400;
+// ------------------------------------------------/modul8.4/auto/color/sw 1/modul8.5/auto/color/sw 1/modul8.4/auto/rotate/z 0.2 400/modul8.5/auto/rotate/z 0.3 400

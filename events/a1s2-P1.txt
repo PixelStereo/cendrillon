@@ -1,1 +1,1 @@
-** "Ma cherie il faut que je te dise je vais bientot mourrir..."; /modul8.2/name 6;100;/modul8.2/color/alpha 1. 800 0.1;
+** "Ma cherie il faut que je te dise je vais bientot mourrir..." /modul8.2/name 6100/modul8.2/color/alpha 1. 800 0.1

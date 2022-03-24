@@ -1,1 +1,1 @@
-** Fade out des surtitres de la mere;/modul8.7/color/alpha 0. 1000 0.1;
+** Fade out des surtitres de la mere/modul8.7/color/alpha 0. 1000 0.1

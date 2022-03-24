@@ -1,1 +1,1 @@
-** Vie;/modul8.5/pos/x 80;/modul8.5/pos/y -22;/modul8.5/txt vie;/modul8.5/color/alpha 1. 600;/modul8.5/blur/level 0. 1500;/modul8.5/pos/x 0. 3000;2000;/modul8.5/blur/level 1. 2000;1000;/modul8.5/color/alpha 0. 1000;
+** Vie/modul8.5/pos/x 80/modul8.5/pos/y -22/modul8.5/txt vie/modul8.5/color/alpha 1. 600/modul8.5/blur/level 0. 1500/modul8.5/pos/x 0. 30002000/modul8.5/blur/level 1. 20001000/modul8.5/color/alpha 0. 1000

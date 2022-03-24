@@ -1,1 +1,1 @@
-/modul8.3/color/alpha 0. 1000;1000;/modul8.2/color/alpha 0.;/modul8.1/color/alpha 0;// /shutter/lointain 1;// --------------------Declenchement a1s1 par MIDI-lumiere-----------------;/midinote.1/note.1/map /cuesheet.1/go 64. 64. 0. 1. trig 0. 0 0 0. 0. b;
+/modul8.3/color/alpha 0. 10001000/modul8.2/color/alpha 0./modul8.1/color/alpha 0// /shutter/lointain 1// --------------------Declenchement a1s1 par MIDI-lumiere-----------------/midinote.1/note.1/map /cuesheet.1/go 64. 64. 0. 1. trig 0. 0 0 0. 0. b
