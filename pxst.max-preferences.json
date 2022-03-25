@@ -1,0 +1,9 @@
+{
+	"preferences" : 	{
+		"verbose" : 1,
+		"autoload" : 1,
+		"dynamicvars" : 1,
+		"events_path" : null
+	}
+
+}
