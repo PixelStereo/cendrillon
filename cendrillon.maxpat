@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 733.0, 311.0, 544.0, 136.0 ],
+		"rect" : [ 593.0, 315.0, 545.0, 118.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
 		"default_fontsize" : 12.0,
@@ -48,7 +48,7 @@
 					"patching_rect" : [ 104.5, 62.345183999999989, 150.0, 47.0 ],
 					"presentation" : 1,
 					"presentation_linecount" : 3,
-					"presentation_rect" : [ 181.25, 72.345183999999989, 150.0, 47.0 ],
+					"presentation_rect" : [ 132.25, 72.345183999999989, 150.0, 47.0 ],
 					"text" : "Brancher le jeu d'Orgue via Artnet sur les VPs via companion"
 				}
 
@@ -63,7 +63,7 @@
 					"patching_rect" : [ 23.0, 62.345183999999989, 75.0, 33.0 ],
 					"presentation" : 1,
 					"presentation_linecount" : 2,
-					"presentation_rect" : [ 8.0, 97.345183999999989, 75.0, 33.0 ],
+					"presentation_rect" : [ 8.0, 72.345183999999989, 75.0, 33.0 ],
 					"text" : "TRIGG MIDI\nSHUTTERS"
 				}
 
@@ -176,7 +176,7 @@
 						}
 ,
 						"classnamespace" : "box",
-						"rect" : [ 375.0, 773.0, 466.0, 339.0 ],
+						"rect" : [ 337.0, 722.0, 466.0, 339.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 0,
 						"default_fontsize" : 12.0,
@@ -205,6 +205,19 @@
 						"subpatcher_template" : "",
 						"assistshowspatchername" : 0,
 						"boxes" : [ 							{
+								"box" : 								{
+									"color" : [ 0.439216, 0.74902, 0.254902, 1.0 ],
+									"fontsize" : 16.0,
+									"id" : "obj-25",
+									"maxclass" : "newobj",
+									"numinlets" : 0,
+									"numoutlets" : 0,
+									"patching_rect" : [ 336.0, 145.558666906541987, 90.0, 27.0 ],
+									"text" : "tm_lfo /lfo.1"
+								}
+
+							}
+, 							{
 								"box" : 								{
 									"id" : "obj-24",
 									"maxclass" : "newobj",
@@ -314,6 +327,18 @@
 										"subpatcher_template" : "",
 										"assistshowspatchername" : 0,
 										"boxes" : [ 											{
+												"box" : 												{
+													"color" : [ 0.317647, 0.654902, 0.976471, 1.0 ],
+													"id" : "obj-1",
+													"maxclass" : "newobj",
+													"numinlets" : 1,
+													"numoutlets" : 0,
+													"patching_rect" : [ 67.0, 25.669999859813004, 63.0, 22.0 ],
+													"text" : "print >>>>"
+												}
+
+											}
+, 											{
 												"box" : 												{
 													"id" : "obj-28",
 													"maxclass" : "newobj",
@@ -773,7 +798,16 @@
 											}
 , 											{
 												"patchline" : 												{
+													"destination" : [ "obj-1", 0 ],
+													"order" : 0,
+													"source" : [ "obj-41", 0 ]
+												}
+
+											}
+, 											{
+												"patchline" : 												{
 													"destination" : [ "obj-42", 0 ],
+													"order" : 1,
 													"source" : [ "obj-41", 0 ]
 												}
 
@@ -2488,7 +2522,7 @@
 																	"numoutlets" : 1,
 																	"outlettype" : [ "" ],
 																	"patching_rect" : [ 225.0, 207.0, 50.0, 22.0 ],
-																	"text" : "9"
+																	"text" : "27"
 																}
 
 															}
@@ -4238,7 +4272,7 @@
 					"offset" : [ 0.0, 0.0 ],
 					"patching_rect" : [ 2.75, 4.0, 117.5, 56.345183999999989 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 2.75, 4.0, 176.5, 91.345183999999989 ],
+					"presentation_rect" : [ 2.75, 4.0, 176.5, 66.345183999999989 ],
 					"viewvisibility" : 1
 				}
 
@@ -4306,6 +4340,20 @@
 				"implicit" : 1
 			}
 , 			{
+				"name" : "makesubparam.mxt",
+				"bootpath" : "~/Documents/GITs/pxst.max/pxst-lib/misc",
+				"patcherrelativepath" : "../../pxst.max/pxst-lib/misc",
+				"type" : "TEXT",
+				"implicit" : 1
+			}
+, 			{
+				"name" : "makesubswitch.mxt",
+				"bootpath" : "~/Documents/GITs/pxst.max/pxst-lib/misc",
+				"patcherrelativepath" : "../../pxst.max/pxst-lib/misc",
+				"type" : "TEXT",
+				"implicit" : 1
+			}
+, 			{
 				"name" : "makeswitch.maxpat",
 				"bootpath" : "~/Documents/GITs/cendrillon/modul8",
 				"patcherrelativepath" : "../../cendrillon/modul8",
@@ -4323,6 +4371,20 @@
 				"name" : "moduleinit.maxpat",
 				"bootpath" : "~/Documents/GITs/cendrillon/modul8",
 				"patcherrelativepath" : "../../cendrillon/modul8",
+				"type" : "JSON",
+				"implicit" : 1
+			}
+, 			{
+				"name" : "multimapsend.maxpat",
+				"bootpath" : "~/Documents/GITs/pxst.max/pxst-lib/misc",
+				"patcherrelativepath" : "../../pxst.max/pxst-lib/misc",
+				"type" : "JSON",
+				"implicit" : 1
+			}
+, 			{
+				"name" : "pxst.control.maxpat",
+				"bootpath" : "~/Documents/GITs/pxst.max/pxst-lib/misc",
+				"patcherrelativepath" : "../../pxst.max/pxst-lib/misc",
 				"type" : "JSON",
 				"implicit" : 1
 			}
@@ -4348,6 +4410,13 @@
 				"implicit" : 1
 			}
 , 			{
+				"name" : "pxst.param.maxpat",
+				"bootpath" : "~/Documents/GITs/pxst.max/pxst-lib/misc",
+				"patcherrelativepath" : "../../pxst.max/pxst-lib/misc",
+				"type" : "JSON",
+				"implicit" : 1
+			}
+, 			{
 				"name" : "pxst.preferences.js",
 				"bootpath" : "~/Documents/GITs/pxst.max/pxst-lib/js",
 				"patcherrelativepath" : "../../pxst.max/pxst-lib/js",
@@ -4362,9 +4431,22 @@
 				"implicit" : 1
 			}
 , 			{
+				"name" : "thru.maxpat",
+				"bootpath" : "C74:/patchers/m4l/Pluggo for Live resources/patches",
+				"type" : "JSON",
+				"implicit" : 1
+			}
+, 			{
 				"name" : "tm_alias.maxpat",
 				"bootpath" : "~/Documents/GITs/cendrillon/modul8",
 				"patcherrelativepath" : "../../cendrillon/modul8",
+				"type" : "JSON",
+				"implicit" : 1
+			}
+, 			{
+				"name" : "tm_lfo.maxpat",
+				"bootpath" : "~/Documents/GITs/pxst.max/pxst-lib/lfo",
+				"patcherrelativepath" : "../../pxst.max/pxst-lib/lfo",
 				"type" : "JSON",
 				"implicit" : 1
 			}
