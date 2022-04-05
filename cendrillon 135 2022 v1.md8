@@ -5,7 +5,7 @@
 	<key>(g3_ASCII)dicValuesControls</key>
 	<dict>
 		<key>(g3_ASCII)ctrl_master_layerSetGroupB</key>
-		<string>(g3_INT)2</string>
+		<string>(g3_INT)7</string>
 		<key>ctrl_master_addColorB</key>
 		<string>(g3_INT)0</string>
 		<key>ctrl_master_addColorG</key>
@@ -1928,7 +1928,7 @@
 				<key>(g3_ASCII)ctrl_layer_color_additiveR</key>
 				<string>(g3_INT)0</string>
 				<key>(g3_ASCII)ctrl_layer_hidden</key>
-				<string>(g3_INT)0</string>
+				<string>(g3_INT)1</string>
 				<key>(g3_ASCII)ctrl_layer_media</key>
 				<string>(g3_INT)132</string>
 				<key>(g3_ASCII)ctrl_layer_mediaSet</key>
@@ -1984,7 +1984,7 @@
 				<key>(g3_ASCII)ctrl_layer_color_additiveR</key>
 				<string>(g3_INT)0</string>
 				<key>(g3_ASCII)ctrl_layer_hidden</key>
-				<string>(g3_INT)0</string>
+				<string>(g3_INT)1</string>
 				<key>(g3_ASCII)ctrl_layer_media</key>
 				<string>(g3_INT)132</string>
 				<key>(g3_ASCII)ctrl_layer_mediaSet</key>
@@ -2042,7 +2042,7 @@
 				<key>(g3_ASCII)ctrl_layer_hidden</key>
 				<string>(g3_INT)0</string>
 				<key>(g3_ASCII)ctrl_layer_media</key>
-				<string>(g3_INT)132</string>
+				<string>(g3_INT)128</string>
 				<key>(g3_ASCII)ctrl_layer_mediaSet</key>
 				<string>(g3_INT)8</string>
 				<key>(g3_ASCII)ctrl_layer_pixelFX_blurLevel</key>
@@ -2094,7 +2094,7 @@
 				<key>(g3_ASCII)ctrl_layer_hidden</key>
 				<string>(g3_INT)0</string>
 				<key>(g3_ASCII)ctrl_layer_media</key>
-				<string>(g3_INT)132</string>
+				<string>(g3_INT)128</string>
 				<key>(g3_ASCII)ctrl_layer_mediaSet</key>
 				<string>(g3_INT)8</string>
 				<key>(g3_ASCII)ctrl_layer_pixelFX_blurLevel</key>
@@ -3499,7 +3499,7 @@
 				<key>(g3_ASCII)ctrl_layer_hidden</key>
 				<string>(g3_INT)0</string>
 				<key>(g3_ASCII)ctrl_layer_media</key>
-				<string>(g3_INT)132</string>
+				<string>(g3_INT)128</string>
 				<key>(g3_ASCII)ctrl_layer_mediaSet</key>
 				<string>(g3_INT)8</string>
 				<key>(g3_ASCII)ctrl_layer_movie_shuttle1</key>
@@ -6164,9 +6164,9 @@
 					<key>(g3_ASCII)contrast</key>
 					<string>(g3_INT)1</string>
 					<key>(g3_ASCII)contrastBoost</key>
-					<string>(g3_INT)20</string>
-					<key>(g3_ASCII)contrastPolarity</key>
 					<string>(g3_INT)1</string>
+					<key>(g3_ASCII)contrastPolarity</key>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)contrastPos</key>
 					<string>(g3_INT)2</string>
 					<key>(g3_ASCII)contrastValue</key>
@@ -6468,7 +6468,7 @@
 					<key>(g3_ASCII)noiseLevel</key>
 					<string>(g3_FLOAT)0.500000</string>
 					<key>(g3_ASCII)noiseMonochromatic</key>
-					<string>(g3_INT)1</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)noisePos</key>
 					<string>(g3_INT)4</string>
 					<key>(g3_ASCII)noiseRGB</key>
@@ -6532,9 +6532,9 @@
 					<key>(g3_ASCII)saturation</key>
 					<string>(g3_INT)1</string>
 					<key>(g3_ASCII)saturationBoost</key>
-					<string>(g3_INT)2</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)saturationPolarity</key>
-					<string>(g3_INT)1</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)saturationPos</key>
 					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)saturationValue</key>
@@ -6542,7 +6542,7 @@
 					<key>(g3_ASCII)soundOutBalance</key>
 					<string>(g3_FLOAT)0.500000</string>
 					<key>(g3_ASCII)soundOutLevel</key>
-					<string>(g3_FLOAT)1.000000</string>
+					<string>(g3_INT)1</string>
 					<key>(g3_ASCII)soundOutLinkToAlphaAndCrossfader</key>
 					<string>(g3_INT)1</string>
 					<key>(g3_ASCII)syphonAppName</key>
@@ -6747,9 +6747,9 @@
 					<key>(g3_ASCII)contrast</key>
 					<string>(g3_INT)1</string>
 					<key>(g3_ASCII)contrastBoost</key>
-					<string>(g3_INT)20</string>
-					<key>(g3_ASCII)contrastPolarity</key>
 					<string>(g3_INT)1</string>
+					<key>(g3_ASCII)contrastPolarity</key>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)contrastPos</key>
 					<string>(g3_INT)2</string>
 					<key>(g3_ASCII)contrastValue</key>
@@ -7051,7 +7051,7 @@
 					<key>(g3_ASCII)noiseLevel</key>
 					<string>(g3_FLOAT)0.500000</string>
 					<key>(g3_ASCII)noiseMonochromatic</key>
-					<string>(g3_INT)1</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)noisePos</key>
 					<string>(g3_INT)4</string>
 					<key>(g3_ASCII)noiseRGB</key>
@@ -7115,9 +7115,9 @@
 					<key>(g3_ASCII)saturation</key>
 					<string>(g3_INT)1</string>
 					<key>(g3_ASCII)saturationBoost</key>
-					<string>(g3_INT)2</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)saturationPolarity</key>
-					<string>(g3_INT)1</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)saturationPos</key>
 					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)saturationValue</key>
@@ -7125,7 +7125,7 @@
 					<key>(g3_ASCII)soundOutBalance</key>
 					<string>(g3_FLOAT)0.500000</string>
 					<key>(g3_ASCII)soundOutLevel</key>
-					<string>(g3_FLOAT)1.000000</string>
+					<string>(g3_INT)1</string>
 					<key>(g3_ASCII)soundOutLinkToAlphaAndCrossfader</key>
 					<string>(g3_INT)1</string>
 					<key>(g3_ASCII)syphonAppName</key>
@@ -7330,9 +7330,9 @@
 					<key>(g3_ASCII)contrast</key>
 					<string>(g3_INT)1</string>
 					<key>(g3_ASCII)contrastBoost</key>
-					<string>(g3_INT)20</string>
-					<key>(g3_ASCII)contrastPolarity</key>
 					<string>(g3_INT)1</string>
+					<key>(g3_ASCII)contrastPolarity</key>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)contrastPos</key>
 					<string>(g3_INT)2</string>
 					<key>(g3_ASCII)contrastValue</key>
@@ -7634,7 +7634,7 @@
 					<key>(g3_ASCII)noiseLevel</key>
 					<string>(g3_FLOAT)0.500000</string>
 					<key>(g3_ASCII)noiseMonochromatic</key>
-					<string>(g3_INT)1</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)noisePos</key>
 					<string>(g3_INT)4</string>
 					<key>(g3_ASCII)noiseRGB</key>
@@ -7698,9 +7698,9 @@
 					<key>(g3_ASCII)saturation</key>
 					<string>(g3_INT)1</string>
 					<key>(g3_ASCII)saturationBoost</key>
-					<string>(g3_INT)2</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)saturationPolarity</key>
-					<string>(g3_INT)1</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)saturationPos</key>
 					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)saturationValue</key>
@@ -7708,7 +7708,7 @@
 					<key>(g3_ASCII)soundOutBalance</key>
 					<string>(g3_FLOAT)0.500000</string>
 					<key>(g3_ASCII)soundOutLevel</key>
-					<string>(g3_FLOAT)1.000000</string>
+					<string>(g3_INT)1</string>
 					<key>(g3_ASCII)soundOutLinkToAlphaAndCrossfader</key>
 					<string>(g3_INT)1</string>
 					<key>(g3_ASCII)syphonAppName</key>
@@ -7907,9 +7907,9 @@
 					<key>(g3_ASCII)contrast</key>
 					<string>(g3_INT)1</string>
 					<key>(g3_ASCII)contrastBoost</key>
-					<string>(g3_INT)20</string>
-					<key>(g3_ASCII)contrastPolarity</key>
 					<string>(g3_INT)1</string>
+					<key>(g3_ASCII)contrastPolarity</key>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)contrastPos</key>
 					<string>(g3_INT)2</string>
 					<key>(g3_ASCII)contrastValue</key>
@@ -8211,7 +8211,7 @@
 					<key>(g3_ASCII)noiseLevel</key>
 					<string>(g3_FLOAT)0.500000</string>
 					<key>(g3_ASCII)noiseMonochromatic</key>
-					<string>(g3_INT)1</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)noisePos</key>
 					<string>(g3_INT)4</string>
 					<key>(g3_ASCII)noiseRGB</key>
@@ -8275,9 +8275,9 @@
 					<key>(g3_ASCII)saturation</key>
 					<string>(g3_INT)1</string>
 					<key>(g3_ASCII)saturationBoost</key>
-					<string>(g3_INT)2</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)saturationPolarity</key>
-					<string>(g3_INT)1</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)saturationPos</key>
 					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)saturationValue</key>
@@ -8285,7 +8285,7 @@
 					<key>(g3_ASCII)soundOutBalance</key>
 					<string>(g3_FLOAT)0.500000</string>
 					<key>(g3_ASCII)soundOutLevel</key>
-					<string>(g3_FLOAT)1.000000</string>
+					<string>(g3_INT)1</string>
 					<key>(g3_ASCII)soundOutLinkToAlphaAndCrossfader</key>
 					<string>(g3_INT)1</string>
 					<key>(g3_ASCII)syphonAppName</key>
@@ -8484,9 +8484,9 @@
 					<key>(g3_ASCII)contrast</key>
 					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)contrastBoost</key>
-					<string>(g3_INT)2</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)contrastPolarity</key>
-					<string>(g3_INT)1</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)contrastPos</key>
 					<string>(g3_INT)2</string>
 					<key>(g3_ASCII)contrastValue</key>
@@ -8785,7 +8785,7 @@
 					<key>(g3_ASCII)noiseLevel</key>
 					<string>(g3_FLOAT)0.500000</string>
 					<key>(g3_ASCII)noiseMonochromatic</key>
-					<string>(g3_INT)1</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)noisePos</key>
 					<string>(g3_INT)4</string>
 					<key>(g3_ASCII)noiseRGB</key>
@@ -8827,9 +8827,9 @@
 					<key>(g3_ASCII)saturation</key>
 					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)saturationBoost</key>
-					<string>(g3_INT)2</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)saturationPolarity</key>
-					<string>(g3_INT)1</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)saturationPos</key>
 					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)saturationValue</key>
@@ -8837,7 +8837,7 @@
 					<key>(g3_ASCII)soundOutBalance</key>
 					<string>(g3_FLOAT)0.500000</string>
 					<key>(g3_ASCII)soundOutLevel</key>
-					<string>(g3_FLOAT)1.000000</string>
+					<string>(g3_INT)1</string>
 					<key>(g3_ASCII)soundOutLinkToAlphaAndCrossfader</key>
 					<string>(g3_INT)1</string>
 					<key>(g3_ASCII)syphonAppName</key>
@@ -9358,43 +9358,30 @@
 						<dict/>
 						<dict>
 							<key>(g3_ASCII)FILTER</key>
-							<string>(g3_ASCII)(CI) M8 Lightness</string>
-							<key>(g3_ASCII)PARAMETERS</key>
-							<dict>
-								<key>(g3_ASCII)Level</key>
-								<string>(g3_INT)1</string>
-								<key>(g3_ASCII)LightBright</key>
-								<string>(g3_INT)0</string>
-							</dict>
+							<string>(g3_ASCII)LUMINOSITY</string>
+							<key>(g3_ASCII)GLOW</key>
+							<string>(g3_INT)0</string>
+							<key>(g3_ASCII)VALUE</key>
+							<string>(g3_INT)1</string>
 						</dict>
 						<dict>
 							<key>(g3_ASCII)FILTER</key>
-							<string>(g3_ASCII)(CI) M8 Contrast</string>
-							<key>(g3_ASCII)PARAMETERS</key>
-							<dict>
-								<key>(g3_ASCII)Boost</key>
-								<string>(g3_INT)1</string>
-								<key>(g3_ASCII)Invert</key>
-								<string>(g3_INT)0</string>
-								<key>(g3_ASCII)Level</key>
-								<string>(g3_INT)1</string>
-							</dict>
+							<string>(g3_ASCII)CONTRAST</string>
+							<key>(g3_ASCII)VALUE</key>
+							<string>(g3_INT)21</string>
 						</dict>
 						<dict/>
 						<dict>
+							<key>(g3_ASCII)ALPHA</key>
+							<string>(g3_INT)1</string>
+							<key>(g3_ASCII)COLOR</key>
+							<string>(g3_INT)0</string>
 							<key>(g3_ASCII)FILTER</key>
-							<string>(g3_ASCII)(CI) M8 Noise</string>
-							<key>(g3_ASCII)PARAMETERS</key>
-							<dict>
-								<key>(g3_ASCII)Colored</key>
-								<string>(g3_INT)0</string>
-								<key>(g3_ASCII)Level</key>
-								<string>(g3_FLOAT)0.600935</string>
-								<key>(g3_ASCII)ToAlpha</key>
-								<string>(g3_INT)1</string>
-								<key>(g3_ASCII)ToColor</key>
-								<string>(g3_INT)0</string>
-							</dict>
+							<string>(g3_ASCII)NOISE</string>
+							<key>(g3_ASCII)LEVEL</key>
+							<string>(g3_FLOAT)0.600935</string>
+							<key>(g3_ASCII)MONOCHROMATIC</key>
+							<string>(g3_INT)1</string>
 						</dict>
 						<dict/>
 					</array>
@@ -9941,14 +9928,9 @@
 						<dict/>
 						<dict>
 							<key>(g3_ASCII)FILTER</key>
-							<string>(g3_ASCII)(CI) M8 Blur (Fast X)</string>
-							<key>(g3_ASCII)PARAMETERS</key>
-							<dict>
-								<key>(g3_ASCII)Level</key>
-								<string>(g3_FLOAT)0.200000</string>
-								<key>(g3_ASCII)Quality</key>
-								<string>(g3_FLOAT)1.000000</string>
-							</dict>
+							<string>(g3_ASCII)HBLUR</string>
+							<key>(g3_ASCII)LEVEL</key>
+							<string>(g3_FLOAT)0.048943</string>
 						</dict>
 					</array>
 					<key>(g3_ASCII)pixelsFiltersPOST</key>
@@ -10490,27 +10472,17 @@
 						<dict/>
 						<dict>
 							<key>(g3_ASCII)FILTER</key>
-							<string>(g3_ASCII)(CI) M8 Lightness</string>
-							<key>(g3_ASCII)PARAMETERS</key>
-							<dict>
-								<key>(g3_ASCII)Level</key>
-								<string>(g3_FLOAT)0.525000</string>
-								<key>(g3_ASCII)LightBright</key>
-								<string>(g3_INT)0</string>
-							</dict>
+							<string>(g3_ASCII)LUMINOSITY</string>
+							<key>(g3_ASCII)GLOW</key>
+							<string>(g3_INT)0</string>
+							<key>(g3_ASCII)VALUE</key>
+							<string>(g3_FLOAT)0.050000</string>
 						</dict>
 						<dict>
 							<key>(g3_ASCII)FILTER</key>
-							<string>(g3_ASCII)(CI) M8 Contrast</string>
-							<key>(g3_ASCII)PARAMETERS</key>
-							<dict>
-								<key>(g3_ASCII)Boost</key>
-								<string>(g3_INT)0</string>
-								<key>(g3_ASCII)Invert</key>
-								<string>(g3_INT)0</string>
-								<key>(g3_ASCII)Level</key>
-								<string>(g3_FLOAT)0.130000</string>
-							</dict>
+							<string>(g3_ASCII)CONTRAST</string>
+							<key>(g3_ASCII)VALUE</key>
+							<string>(g3_FLOAT)1.260000</string>
 						</dict>
 						<dict/>
 						<dict/>
@@ -11053,27 +11025,17 @@
 						<dict/>
 						<dict>
 							<key>(g3_ASCII)FILTER</key>
-							<string>(g3_ASCII)(CI) M8 Lightness</string>
-							<key>(g3_ASCII)PARAMETERS</key>
-							<dict>
-								<key>(g3_ASCII)Level</key>
-								<string>(g3_FLOAT)0.525000</string>
-								<key>(g3_ASCII)LightBright</key>
-								<string>(g3_INT)0</string>
-							</dict>
+							<string>(g3_ASCII)LUMINOSITY</string>
+							<key>(g3_ASCII)GLOW</key>
+							<string>(g3_INT)0</string>
+							<key>(g3_ASCII)VALUE</key>
+							<string>(g3_FLOAT)0.050000</string>
 						</dict>
 						<dict>
 							<key>(g3_ASCII)FILTER</key>
-							<string>(g3_ASCII)(CI) M8 Contrast</string>
-							<key>(g3_ASCII)PARAMETERS</key>
-							<dict>
-								<key>(g3_ASCII)Boost</key>
-								<string>(g3_INT)0</string>
-								<key>(g3_ASCII)Invert</key>
-								<string>(g3_INT)0</string>
-								<key>(g3_ASCII)Level</key>
-								<string>(g3_FLOAT)0.130000</string>
-							</dict>
+							<string>(g3_ASCII)CONTRAST</string>
+							<key>(g3_ASCII)VALUE</key>
+							<string>(g3_FLOAT)1.260000</string>
 						</dict>
 						<dict/>
 						<dict/>
@@ -11746,9 +11708,9 @@
 					<key>(g3_ASCII)contrast</key>
 					<string>(g3_INT)1</string>
 					<key>(g3_ASCII)contrastBoost</key>
-					<string>(g3_INT)2</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)contrastPolarity</key>
-					<string>(g3_INT)1</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)contrastPos</key>
 					<string>(g3_INT)2</string>
 					<key>(g3_ASCII)contrastValue</key>
@@ -12049,7 +12011,7 @@
 					<key>(g3_ASCII)noiseLevel</key>
 					<string>(g3_FLOAT)0.245000</string>
 					<key>(g3_ASCII)noiseMonochromatic</key>
-					<string>(g3_INT)1</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)noisePos</key>
 					<string>(g3_INT)4</string>
 					<key>(g3_ASCII)noiseRGB</key>
@@ -12107,9 +12069,9 @@
 					<key>(g3_ASCII)saturation</key>
 					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)saturationBoost</key>
-					<string>(g3_INT)2</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)saturationPolarity</key>
-					<string>(g3_INT)1</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)saturationPos</key>
 					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)saturationValue</key>
@@ -12117,7 +12079,7 @@
 					<key>(g3_ASCII)soundOutBalance</key>
 					<string>(g3_FLOAT)0.500000</string>
 					<key>(g3_ASCII)soundOutLevel</key>
-					<string>(g3_FLOAT)1.000000</string>
+					<string>(g3_INT)1</string>
 					<key>(g3_ASCII)soundOutLinkToAlphaAndCrossfader</key>
 					<string>(g3_INT)1</string>
 					<key>(g3_ASCII)syphonAppName</key>
@@ -12314,9 +12276,9 @@
 					<key>(g3_ASCII)contrast</key>
 					<string>(g3_INT)1</string>
 					<key>(g3_ASCII)contrastBoost</key>
-					<string>(g3_INT)2</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)contrastPolarity</key>
-					<string>(g3_INT)1</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)contrastPos</key>
 					<string>(g3_INT)2</string>
 					<key>(g3_ASCII)contrastValue</key>
@@ -12615,7 +12577,7 @@
 					<key>(g3_ASCII)noiseLevel</key>
 					<string>(g3_FLOAT)0.500000</string>
 					<key>(g3_ASCII)noiseMonochromatic</key>
-					<string>(g3_INT)1</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)noisePos</key>
 					<string>(g3_INT)4</string>
 					<key>(g3_ASCII)noiseRGB</key>
@@ -12667,9 +12629,9 @@
 					<key>(g3_ASCII)saturation</key>
 					<string>(g3_INT)1</string>
 					<key>(g3_ASCII)saturationBoost</key>
-					<string>(g3_INT)2</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)saturationPolarity</key>
-					<string>(g3_INT)1</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)saturationPos</key>
 					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)saturationValue</key>
@@ -12677,7 +12639,7 @@
 					<key>(g3_ASCII)soundOutBalance</key>
 					<string>(g3_FLOAT)0.500000</string>
 					<key>(g3_ASCII)soundOutLevel</key>
-					<string>(g3_FLOAT)1.000000</string>
+					<string>(g3_INT)1</string>
 					<key>(g3_ASCII)soundOutLinkToAlphaAndCrossfader</key>
 					<string>(g3_INT)1</string>
 					<key>(g3_ASCII)syphonAppName</key>
@@ -13318,9 +13280,9 @@
 					<key>(g3_ASCII)contrast</key>
 					<string>(g3_INT)1</string>
 					<key>(g3_ASCII)contrastBoost</key>
-					<string>(g3_INT)2</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)contrastPolarity</key>
-					<string>(g3_INT)1</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)contrastPos</key>
 					<string>(g3_INT)2</string>
 					<key>(g3_ASCII)contrastValue</key>
@@ -13619,7 +13581,7 @@
 					<key>(g3_ASCII)noiseLevel</key>
 					<string>(g3_FLOAT)0.870256</string>
 					<key>(g3_ASCII)noiseMonochromatic</key>
-					<string>(g3_INT)1</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)noisePos</key>
 					<string>(g3_INT)4</string>
 					<key>(g3_ASCII)noiseRGB</key>
@@ -13666,9 +13628,9 @@
 					<key>(g3_ASCII)saturation</key>
 					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)saturationBoost</key>
-					<string>(g3_INT)2</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)saturationPolarity</key>
-					<string>(g3_INT)1</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)saturationPos</key>
 					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)saturationValue</key>
@@ -13676,7 +13638,7 @@
 					<key>(g3_ASCII)soundOutBalance</key>
 					<string>(g3_FLOAT)0.500000</string>
 					<key>(g3_ASCII)soundOutLevel</key>
-					<string>(g3_FLOAT)1.000000</string>
+					<string>(g3_INT)1</string>
 					<key>(g3_ASCII)soundOutLinkToAlphaAndCrossfader</key>
 					<string>(g3_INT)1</string>
 					<key>(g3_ASCII)syphonAppName</key>
@@ -13871,9 +13833,9 @@
 					<key>(g3_ASCII)contrast</key>
 					<string>(g3_INT)1</string>
 					<key>(g3_ASCII)contrastBoost</key>
-					<string>(g3_INT)2</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)contrastPolarity</key>
-					<string>(g3_INT)1</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)contrastPos</key>
 					<string>(g3_INT)2</string>
 					<key>(g3_ASCII)contrastValue</key>
@@ -14172,7 +14134,7 @@
 					<key>(g3_ASCII)noiseLevel</key>
 					<string>(g3_FLOAT)0.500000</string>
 					<key>(g3_ASCII)noiseMonochromatic</key>
-					<string>(g3_INT)1</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)noisePos</key>
 					<string>(g3_INT)4</string>
 					<key>(g3_ASCII)noiseRGB</key>
@@ -14233,9 +14195,9 @@
 					<key>(g3_ASCII)saturation</key>
 					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)saturationBoost</key>
-					<string>(g3_INT)2</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)saturationPolarity</key>
-					<string>(g3_INT)1</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)saturationPos</key>
 					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)saturationValue</key>
@@ -14243,7 +14205,7 @@
 					<key>(g3_ASCII)soundOutBalance</key>
 					<string>(g3_FLOAT)0.500000</string>
 					<key>(g3_ASCII)soundOutLevel</key>
-					<string>(g3_FLOAT)1.000000</string>
+					<string>(g3_INT)1</string>
 					<key>(g3_ASCII)soundOutLinkToAlphaAndCrossfader</key>
 					<string>(g3_INT)1</string>
 					<key>(g3_ASCII)syphonAppName</key>
@@ -14440,9 +14402,9 @@
 					<key>(g3_ASCII)contrast</key>
 					<string>(g3_INT)1</string>
 					<key>(g3_ASCII)contrastBoost</key>
-					<string>(g3_INT)2</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)contrastPolarity</key>
-					<string>(g3_INT)1</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)contrastPos</key>
 					<string>(g3_INT)2</string>
 					<key>(g3_ASCII)contrastValue</key>
@@ -14749,7 +14711,7 @@
 						</array>
 					</dict>
 					<key>(g3_ASCII)mute</key>
-					<string>(g3_INT)0</string>
+					<string>(g3_INT)1</string>
 					<key>(g3_ASCII)noise</key>
 					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)noiseAlpha</key>
@@ -14757,7 +14719,7 @@
 					<key>(g3_ASCII)noiseLevel</key>
 					<string>(g3_FLOAT)0.500000</string>
 					<key>(g3_ASCII)noiseMonochromatic</key>
-					<string>(g3_INT)1</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)noisePos</key>
 					<string>(g3_INT)4</string>
 					<key>(g3_ASCII)noiseRGB</key>
@@ -14825,9 +14787,9 @@
 					<key>(g3_ASCII)saturation</key>
 					<string>(g3_INT)1</string>
 					<key>(g3_ASCII)saturationBoost</key>
-					<string>(g3_INT)2</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)saturationPolarity</key>
-					<string>(g3_INT)1</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)saturationPos</key>
 					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)saturationValue</key>
@@ -14835,7 +14797,7 @@
 					<key>(g3_ASCII)soundOutBalance</key>
 					<string>(g3_FLOAT)0.500000</string>
 					<key>(g3_ASCII)soundOutLevel</key>
-					<string>(g3_FLOAT)1.000000</string>
+					<string>(g3_INT)1</string>
 					<key>(g3_ASCII)soundOutLinkToAlphaAndCrossfader</key>
 					<string>(g3_INT)1</string>
 					<key>(g3_ASCII)syphonAppName</key>
@@ -15034,9 +14996,9 @@
 					<key>(g3_ASCII)contrast</key>
 					<string>(g3_INT)1</string>
 					<key>(g3_ASCII)contrastBoost</key>
-					<string>(g3_INT)2</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)contrastPolarity</key>
-					<string>(g3_INT)1</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)contrastPos</key>
 					<string>(g3_INT)2</string>
 					<key>(g3_ASCII)contrastValue</key>
@@ -15343,7 +15305,7 @@
 						</array>
 					</dict>
 					<key>(g3_ASCII)mute</key>
-					<string>(g3_INT)0</string>
+					<string>(g3_INT)1</string>
 					<key>(g3_ASCII)noise</key>
 					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)noiseAlpha</key>
@@ -15351,7 +15313,7 @@
 					<key>(g3_ASCII)noiseLevel</key>
 					<string>(g3_FLOAT)0.500000</string>
 					<key>(g3_ASCII)noiseMonochromatic</key>
-					<string>(g3_INT)1</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)noisePos</key>
 					<string>(g3_INT)4</string>
 					<key>(g3_ASCII)noiseRGB</key>
@@ -15419,9 +15381,9 @@
 					<key>(g3_ASCII)saturation</key>
 					<string>(g3_INT)1</string>
 					<key>(g3_ASCII)saturationBoost</key>
-					<string>(g3_INT)2</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)saturationPolarity</key>
-					<string>(g3_INT)1</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)saturationPos</key>
 					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)saturationValue</key>
@@ -15429,7 +15391,7 @@
 					<key>(g3_ASCII)soundOutBalance</key>
 					<string>(g3_FLOAT)0.500000</string>
 					<key>(g3_ASCII)soundOutLevel</key>
-					<string>(g3_FLOAT)1.000000</string>
+					<string>(g3_INT)1</string>
 					<key>(g3_ASCII)soundOutLinkToAlphaAndCrossfader</key>
 					<string>(g3_INT)1</string>
 					<key>(g3_ASCII)syphonAppName</key>
@@ -15626,9 +15588,9 @@
 					<key>(g3_ASCII)contrast</key>
 					<string>(g3_INT)1</string>
 					<key>(g3_ASCII)contrastBoost</key>
-					<string>(g3_INT)2</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)contrastPolarity</key>
-					<string>(g3_INT)1</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)contrastPos</key>
 					<string>(g3_INT)2</string>
 					<key>(g3_ASCII)contrastValue</key>
@@ -15889,7 +15851,7 @@
 					<key>(g3_ASCII)lumaValue</key>
 					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)mediaId</key>
-					<string>(g3_INT)132</string>
+					<string>(g3_INT)128</string>
 					<key>(g3_ASCII)moduleDict</key>
 					<dict/>
 					<key>(g3_ASCII)module_AnglesDelta</key>
@@ -15943,7 +15905,7 @@
 					<key>(g3_ASCII)noiseLevel</key>
 					<string>(g3_FLOAT)0.500000</string>
 					<key>(g3_ASCII)noiseMonochromatic</key>
-					<string>(g3_INT)1</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)noisePos</key>
 					<string>(g3_INT)4</string>
 					<key>(g3_ASCII)noiseRGB</key>
@@ -16011,9 +15973,9 @@
 					<key>(g3_ASCII)saturation</key>
 					<string>(g3_INT)1</string>
 					<key>(g3_ASCII)saturationBoost</key>
-					<string>(g3_INT)2</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)saturationPolarity</key>
-					<string>(g3_INT)1</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)saturationPos</key>
 					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)saturationValue</key>
@@ -16021,13 +15983,13 @@
 					<key>(g3_ASCII)soundOutBalance</key>
 					<string>(g3_FLOAT)0.500000</string>
 					<key>(g3_ASCII)soundOutLevel</key>
-					<string>(g3_FLOAT)1.000000</string>
+					<string>(g3_INT)1</string>
 					<key>(g3_ASCII)soundOutLinkToAlphaAndCrossfader</key>
 					<string>(g3_INT)1</string>
 					<key>(g3_ASCII)syphonAppName</key>
-					<string>(g3_ASCII)</string>
+					<string>NDISyphon</string>
 					<key>(g3_ASCII)syphonName</key>
-					<string>(g3_ASCII)</string>
+					<string>AW-HN38 (Channel 1)</string>
 					<key>(g3_ASCII)textField</key>
 					<string>(g3_ASCII)hello, you can change this text with the module system</string>
 					<key>(g3_ASCII)textG3Font</key>
@@ -16216,9 +16178,9 @@
 					<key>(g3_ASCII)contrast</key>
 					<string>(g3_INT)1</string>
 					<key>(g3_ASCII)contrastBoost</key>
-					<string>(g3_INT)2</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)contrastPolarity</key>
-					<string>(g3_INT)1</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)contrastPos</key>
 					<string>(g3_INT)2</string>
 					<key>(g3_ASCII)contrastValue</key>
@@ -16479,7 +16441,7 @@
 					<key>(g3_ASCII)lumaValue</key>
 					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)mediaId</key>
-					<string>(g3_INT)132</string>
+					<string>(g3_INT)128</string>
 					<key>(g3_ASCII)moduleDict</key>
 					<dict/>
 					<key>(g3_ASCII)module_AnglesDelta</key>
@@ -16533,7 +16495,7 @@
 					<key>(g3_ASCII)noiseLevel</key>
 					<string>(g3_FLOAT)0.500000</string>
 					<key>(g3_ASCII)noiseMonochromatic</key>
-					<string>(g3_INT)1</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)noisePos</key>
 					<string>(g3_INT)4</string>
 					<key>(g3_ASCII)noiseRGB</key>
@@ -16601,9 +16563,9 @@
 					<key>(g3_ASCII)saturation</key>
 					<string>(g3_INT)1</string>
 					<key>(g3_ASCII)saturationBoost</key>
-					<string>(g3_INT)2</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)saturationPolarity</key>
-					<string>(g3_INT)1</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)saturationPos</key>
 					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)saturationValue</key>
@@ -16611,13 +16573,13 @@
 					<key>(g3_ASCII)soundOutBalance</key>
 					<string>(g3_FLOAT)0.500000</string>
 					<key>(g3_ASCII)soundOutLevel</key>
-					<string>(g3_FLOAT)1.000000</string>
+					<string>(g3_INT)1</string>
 					<key>(g3_ASCII)soundOutLinkToAlphaAndCrossfader</key>
 					<string>(g3_INT)1</string>
 					<key>(g3_ASCII)syphonAppName</key>
-					<string>(g3_ASCII)</string>
+					<string>NDISyphon</string>
 					<key>(g3_ASCII)syphonName</key>
-					<string>(g3_ASCII)</string>
+					<string>AW-HN38 (Channel 1)</string>
 					<key>(g3_ASCII)textField</key>
 					<string>(g3_ASCII)hello, you can change this text with the module system</string>
 					<key>(g3_ASCII)textG3Font</key>
@@ -17704,9 +17666,9 @@
 					<key>(g3_ASCII)contrast</key>
 					<string>(g3_INT)1</string>
 					<key>(g3_ASCII)contrastBoost</key>
-					<string>(g3_INT)2</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)contrastPolarity</key>
-					<string>(g3_INT)1</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)contrastPos</key>
 					<string>(g3_INT)2</string>
 					<key>(g3_ASCII)contrastValue</key>
@@ -18005,7 +17967,7 @@
 					<key>(g3_ASCII)noiseLevel</key>
 					<string>(g3_FLOAT)0.571133</string>
 					<key>(g3_ASCII)noiseMonochromatic</key>
-					<string>(g3_INT)1</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)noisePos</key>
 					<string>(g3_INT)4</string>
 					<key>(g3_ASCII)noiseRGB</key>
@@ -18052,9 +18014,9 @@
 					<key>(g3_ASCII)saturation</key>
 					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)saturationBoost</key>
-					<string>(g3_INT)2</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)saturationPolarity</key>
-					<string>(g3_INT)1</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)saturationPos</key>
 					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)saturationValue</key>
@@ -18062,7 +18024,7 @@
 					<key>(g3_ASCII)soundOutBalance</key>
 					<string>(g3_FLOAT)0.500000</string>
 					<key>(g3_ASCII)soundOutLevel</key>
-					<string>(g3_FLOAT)1.000000</string>
+					<string>(g3_INT)1</string>
 					<key>(g3_ASCII)soundOutLinkToAlphaAndCrossfader</key>
 					<string>(g3_INT)1</string>
 					<key>(g3_ASCII)syphonAppName</key>
@@ -18653,7 +18615,7 @@
 					<array>
 						<string>(g3_FLOAT)0.000000</string>
 						<string>(g3_FLOAT)0.000000</string>
-						<string>(g3_FLOAT)7.163925</string>
+						<string>(g3_FLOAT)7.164000</string>
 					</array>
 					<key>(g3_ASCII)absColorAdditive</key>
 					<array>
@@ -18717,9 +18679,9 @@
 					<key>(g3_ASCII)contrast</key>
 					<string>(g3_INT)1</string>
 					<key>(g3_ASCII)contrastBoost</key>
-					<string>(g3_INT)20</string>
+					<string>(g3_INT)1</string>
 					<key>(g3_ASCII)contrastPolarity</key>
-					<string>(g3_INT)-1</string>
+					<string>(g3_INT)1</string>
 					<key>(g3_ASCII)contrastPos</key>
 					<string>(g3_INT)2</string>
 					<key>(g3_ASCII)contrastValue</key>
@@ -19018,7 +18980,7 @@
 					<key>(g3_ASCII)noiseLevel</key>
 					<string>(g3_FLOAT)0.571133</string>
 					<key>(g3_ASCII)noiseMonochromatic</key>
-					<string>(g3_INT)1</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)noisePos</key>
 					<string>(g3_INT)4</string>
 					<key>(g3_ASCII)noiseRGB</key>
@@ -19058,9 +19020,9 @@
 					<key>(g3_ASCII)saturation</key>
 					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)saturationBoost</key>
-					<string>(g3_INT)2</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)saturationPolarity</key>
-					<string>(g3_INT)1</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)saturationPos</key>
 					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)saturationValue</key>
@@ -19068,7 +19030,7 @@
 					<key>(g3_ASCII)soundOutBalance</key>
 					<string>(g3_FLOAT)0.500000</string>
 					<key>(g3_ASCII)soundOutLevel</key>
-					<string>(g3_FLOAT)1.000000</string>
+					<string>(g3_INT)1</string>
 					<key>(g3_ASCII)soundOutLinkToAlphaAndCrossfader</key>
 					<string>(g3_INT)1</string>
 					<key>(g3_ASCII)syphonAppName</key>
@@ -19725,9 +19687,9 @@
 					<key>(g3_ASCII)contrast</key>
 					<string>(g3_INT)1</string>
 					<key>(g3_ASCII)contrastBoost</key>
-					<string>(g3_INT)20</string>
-					<key>(g3_ASCII)contrastPolarity</key>
 					<string>(g3_INT)1</string>
+					<key>(g3_ASCII)contrastPolarity</key>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)contrastPos</key>
 					<string>(g3_INT)2</string>
 					<key>(g3_ASCII)contrastValue</key>
@@ -20037,7 +19999,7 @@
 					<key>(g3_ASCII)noiseLevel</key>
 					<string>(g3_FLOAT)0.500000</string>
 					<key>(g3_ASCII)noiseMonochromatic</key>
-					<string>(g3_INT)1</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)noisePos</key>
 					<string>(g3_INT)4</string>
 					<key>(g3_ASCII)noiseRGB</key>
@@ -20091,9 +20053,9 @@
 					<key>(g3_ASCII)saturation</key>
 					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)saturationBoost</key>
-					<string>(g3_INT)2</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)saturationPolarity</key>
-					<string>(g3_INT)1</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)saturationPos</key>
 					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)saturationValue</key>
@@ -20260,7 +20222,7 @@
 						<string>(g3_INT)1</string>
 					</array>
 					<key>(g3_ASCII)absTimeRate</key>
-					<string>(g3_FLOAT)0.999999</string>
+					<string>(g3_FLOAT)1.000000</string>
 					<key>(g3_ASCII)blendDst</key>
 					<string>(g3_ASCII)INV_SRC_ALPHA</string>
 					<key>(g3_ASCII)blendEq</key>
@@ -20296,9 +20258,9 @@
 					<key>(g3_ASCII)contrast</key>
 					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)contrastBoost</key>
-					<string>(g3_INT)2</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)contrastPolarity</key>
-					<string>(g3_INT)1</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)contrastPos</key>
 					<string>(g3_INT)2</string>
 					<key>(g3_ASCII)contrastValue</key>
@@ -20601,7 +20563,7 @@
 					<key>(g3_ASCII)noiseLevel</key>
 					<string>(g3_FLOAT)0.010000</string>
 					<key>(g3_ASCII)noiseMonochromatic</key>
-					<string>(g3_INT)1</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)noisePos</key>
 					<string>(g3_INT)4</string>
 					<key>(g3_ASCII)noiseRGB</key>
@@ -20650,9 +20612,9 @@
 					<key>(g3_ASCII)saturation</key>
 					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)saturationBoost</key>
-					<string>(g3_INT)2</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)saturationPolarity</key>
-					<string>(g3_INT)1</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)saturationPos</key>
 					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)saturationValue</key>
@@ -20660,7 +20622,7 @@
 					<key>(g3_ASCII)soundOutBalance</key>
 					<string>(g3_FLOAT)0.500000</string>
 					<key>(g3_ASCII)soundOutLevel</key>
-					<string>(g3_FLOAT)1.000000</string>
+					<string>(g3_INT)1</string>
 					<key>(g3_ASCII)soundOutLinkToAlphaAndCrossfader</key>
 					<string>(g3_INT)1</string>
 					<key>(g3_ASCII)syphonAppName</key>
@@ -20855,9 +20817,9 @@
 					<key>(g3_ASCII)contrast</key>
 					<string>(g3_INT)1</string>
 					<key>(g3_ASCII)contrastBoost</key>
-					<string>(g3_INT)20</string>
-					<key>(g3_ASCII)contrastPolarity</key>
 					<string>(g3_INT)1</string>
+					<key>(g3_ASCII)contrastPolarity</key>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)contrastPos</key>
 					<string>(g3_INT)2</string>
 					<key>(g3_ASCII)contrastValue</key>
@@ -21167,7 +21129,7 @@
 					<key>(g3_ASCII)noiseLevel</key>
 					<string>(g3_FLOAT)0.500000</string>
 					<key>(g3_ASCII)noiseMonochromatic</key>
-					<string>(g3_INT)1</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)noisePos</key>
 					<string>(g3_INT)4</string>
 					<key>(g3_ASCII)noiseRGB</key>
@@ -21221,9 +21183,9 @@
 					<key>(g3_ASCII)saturation</key>
 					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)saturationBoost</key>
-					<string>(g3_INT)2</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)saturationPolarity</key>
-					<string>(g3_INT)1</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)saturationPos</key>
 					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)saturationValue</key>
@@ -21428,9 +21390,9 @@
 					<key>(g3_ASCII)contrast</key>
 					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)contrastBoost</key>
-					<string>(g3_INT)2</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)contrastPolarity</key>
-					<string>(g3_INT)1</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)contrastPos</key>
 					<string>(g3_INT)2</string>
 					<key>(g3_ASCII)contrastValue</key>
@@ -21733,7 +21695,7 @@
 					<key>(g3_ASCII)noiseLevel</key>
 					<string>(g3_FLOAT)0.010000</string>
 					<key>(g3_ASCII)noiseMonochromatic</key>
-					<string>(g3_INT)1</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)noisePos</key>
 					<string>(g3_INT)4</string>
 					<key>(g3_ASCII)noiseRGB</key>
@@ -21782,9 +21744,9 @@
 					<key>(g3_ASCII)saturation</key>
 					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)saturationBoost</key>
-					<string>(g3_INT)2</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)saturationPolarity</key>
-					<string>(g3_INT)1</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)saturationPos</key>
 					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)saturationValue</key>
@@ -21792,7 +21754,7 @@
 					<key>(g3_ASCII)soundOutBalance</key>
 					<string>(g3_FLOAT)0.500000</string>
 					<key>(g3_ASCII)soundOutLevel</key>
-					<string>(g3_FLOAT)1.000000</string>
+					<string>(g3_INT)1</string>
 					<key>(g3_ASCII)soundOutLinkToAlphaAndCrossfader</key>
 					<string>(g3_INT)1</string>
 					<key>(g3_ASCII)syphonAppName</key>
@@ -21995,9 +21957,9 @@
 					<key>(g3_ASCII)contrast</key>
 					<string>(g3_INT)1</string>
 					<key>(g3_ASCII)contrastBoost</key>
-					<string>(g3_INT)2</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)contrastPolarity</key>
-					<string>(g3_INT)1</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)contrastPos</key>
 					<string>(g3_INT)2</string>
 					<key>(g3_ASCII)contrastValue</key>
@@ -22299,7 +22261,7 @@
 					<key>(g3_ASCII)noiseLevel</key>
 					<string>(g3_FLOAT)0.500000</string>
 					<key>(g3_ASCII)noiseMonochromatic</key>
-					<string>(g3_INT)1</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)noisePos</key>
 					<string>(g3_INT)4</string>
 					<key>(g3_ASCII)noiseRGB</key>
@@ -22339,9 +22301,9 @@
 					<key>(g3_ASCII)saturation</key>
 					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)saturationBoost</key>
-					<string>(g3_INT)2</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)saturationPolarity</key>
-					<string>(g3_INT)1</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)saturationPos</key>
 					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)saturationValue</key>
@@ -22349,7 +22311,7 @@
 					<key>(g3_ASCII)soundOutBalance</key>
 					<string>(g3_FLOAT)0.500000</string>
 					<key>(g3_ASCII)soundOutLevel</key>
-					<string>(g3_FLOAT)1.000000</string>
+					<string>(g3_INT)1</string>
 					<key>(g3_ASCII)soundOutLinkToAlphaAndCrossfader</key>
 					<string>(g3_INT)1</string>
 					<key>(g3_ASCII)syphonAppName</key>
@@ -22546,9 +22508,9 @@
 					<key>(g3_ASCII)contrast</key>
 					<string>(g3_INT)1</string>
 					<key>(g3_ASCII)contrastBoost</key>
-					<string>(g3_INT)20</string>
-					<key>(g3_ASCII)contrastPolarity</key>
 					<string>(g3_INT)1</string>
+					<key>(g3_ASCII)contrastPolarity</key>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)contrastPos</key>
 					<string>(g3_INT)2</string>
 					<key>(g3_ASCII)contrastValue</key>
@@ -22850,7 +22812,7 @@
 					<key>(g3_ASCII)noiseLevel</key>
 					<string>(g3_FLOAT)0.549999</string>
 					<key>(g3_ASCII)noiseMonochromatic</key>
-					<string>(g3_INT)1</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)noisePos</key>
 					<string>(g3_INT)4</string>
 					<key>(g3_ASCII)noiseRGB</key>
@@ -22916,9 +22878,9 @@
 					<key>(g3_ASCII)saturation</key>
 					<string>(g3_INT)1</string>
 					<key>(g3_ASCII)saturationBoost</key>
-					<string>(g3_INT)2</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)saturationPolarity</key>
-					<string>(g3_INT)1</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)saturationPos</key>
 					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)saturationValue</key>
@@ -22926,7 +22888,7 @@
 					<key>(g3_ASCII)soundOutBalance</key>
 					<string>(g3_FLOAT)0.500000</string>
 					<key>(g3_ASCII)soundOutLevel</key>
-					<string>(g3_FLOAT)1.000000</string>
+					<string>(g3_INT)1</string>
 					<key>(g3_ASCII)soundOutLinkToAlphaAndCrossfader</key>
 					<string>(g3_INT)1</string>
 					<key>(g3_ASCII)syphonAppName</key>
@@ -23571,9 +23533,9 @@
 					<key>(g3_ASCII)contrast</key>
 					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)contrastBoost</key>
-					<string>(g3_INT)2</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)contrastPolarity</key>
-					<string>(g3_INT)1</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)contrastPos</key>
 					<string>(g3_INT)2</string>
 					<key>(g3_ASCII)contrastValue</key>
@@ -23834,7 +23796,7 @@
 					<key>(g3_ASCII)lumaValue</key>
 					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)mediaId</key>
-					<string>(g3_INT)132</string>
+					<string>(g3_INT)128</string>
 					<key>(g3_ASCII)moduleDict</key>
 					<dict/>
 					<key>(g3_ASCII)module_AnglesDelta</key>
@@ -23872,7 +23834,7 @@
 					<key>(g3_ASCII)noiseLevel</key>
 					<string>(g3_FLOAT)0.500000</string>
 					<key>(g3_ASCII)noiseMonochromatic</key>
-					<string>(g3_INT)1</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)noisePos</key>
 					<string>(g3_INT)4</string>
 					<key>(g3_ASCII)noiseRGB</key>
@@ -23907,9 +23869,9 @@
 					<key>(g3_ASCII)saturation</key>
 					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)saturationBoost</key>
-					<string>(g3_INT)2</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)saturationPolarity</key>
-					<string>(g3_INT)1</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)saturationPos</key>
 					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)saturationValue</key>
@@ -23917,13 +23879,13 @@
 					<key>(g3_ASCII)soundOutBalance</key>
 					<string>(g3_FLOAT)0.500000</string>
 					<key>(g3_ASCII)soundOutLevel</key>
-					<string>(g3_FLOAT)1.000000</string>
+					<string>(g3_INT)1</string>
 					<key>(g3_ASCII)soundOutLinkToAlphaAndCrossfader</key>
 					<string>(g3_INT)1</string>
 					<key>(g3_ASCII)syphonAppName</key>
-					<string>(g3_ASCII)</string>
+					<string>NDISyphon</string>
 					<key>(g3_ASCII)syphonName</key>
-					<string>(g3_ASCII)</string>
+					<string>AW-HN38 (Channel 1)</string>
 					<key>(g3_ASCII)textField</key>
 					<string>(g3_ASCII)hello, you can change this text with the module system</string>
 					<key>(g3_ASCII)textG3Font</key>
@@ -24112,9 +24074,9 @@
 					<key>(g3_ASCII)contrast</key>
 					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)contrastBoost</key>
-					<string>(g3_INT)2</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)contrastPolarity</key>
-					<string>(g3_INT)1</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)contrastPos</key>
 					<string>(g3_INT)2</string>
 					<key>(g3_ASCII)contrastValue</key>
@@ -24413,7 +24375,7 @@
 					<key>(g3_ASCII)noiseLevel</key>
 					<string>(g3_FLOAT)0.500000</string>
 					<key>(g3_ASCII)noiseMonochromatic</key>
-					<string>(g3_INT)1</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)noisePos</key>
 					<string>(g3_INT)4</string>
 					<key>(g3_ASCII)noiseRGB</key>
@@ -24448,9 +24410,9 @@
 					<key>(g3_ASCII)saturation</key>
 					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)saturationBoost</key>
-					<string>(g3_INT)2</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)saturationPolarity</key>
-					<string>(g3_INT)1</string>
+					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)saturationPos</key>
 					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)saturationValue</key>
@@ -24458,7 +24420,7 @@
 					<key>(g3_ASCII)soundOutBalance</key>
 					<string>(g3_FLOAT)0.500000</string>
 					<key>(g3_ASCII)soundOutLevel</key>
-					<string>(g3_FLOAT)1.000000</string>
+					<string>(g3_INT)1</string>
 					<key>(g3_ASCII)soundOutLinkToAlphaAndCrossfader</key>
 					<string>(g3_INT)1</string>
 					<key>(g3_ASCII)syphonAppName</key>
@@ -33509,12 +33471,11 @@
 						<dict/>
 						<dict>
 							<key>(g3_ASCII)FILTER</key>
-							<string>(g3_ASCII)(CI) Box Blur</string>
-							<key>(g3_ASCII)PARAMETERS</key>
-							<dict>
-								<key>(g3_ASCII)Radius</key>
-								<string>(g3_FLOAT)1.000000</string>
-							</dict>
+							<string>(g3_ASCII)BOXBLUR</string>
+							<key>(g3_ASCII)HLEVEL</key>
+							<string>(g3_FLOAT)1.000000</string>
+							<key>(g3_ASCII)VLEVEL</key>
+							<string>(g3_FLOAT)1.000000</string>
 						</dict>
 					</array>
 					<key>(g3_ASCII)pixelsFiltersPOST</key>
@@ -34055,51 +34016,31 @@
 					<array>
 						<dict>
 							<key>(g3_ASCII)FILTER</key>
-							<string>(g3_ASCII)(CI) M8 Saturation</string>
-							<key>(g3_ASCII)PARAMETERS</key>
-							<dict>
-								<key>(g3_ASCII)Boost</key>
-								<string>(g3_INT)0</string>
-								<key>(g3_ASCII)Invert</key>
-								<string>(g3_INT)0</string>
-								<key>(g3_ASCII)Level</key>
-								<string>(g3_INT)0</string>
-							</dict>
+							<string>(g3_ASCII)SATURATE</string>
+							<key>(g3_ASCII)VALUE</key>
+							<string>(g3_INT)0</string>
 						</dict>
 						<dict>
 							<key>(g3_ASCII)FILTER</key>
-							<string>(g3_ASCII)(CI) M8 Lightness</string>
-							<key>(g3_ASCII)PARAMETERS</key>
-							<dict>
-								<key>(g3_ASCII)Level</key>
-								<string>(g3_INT)0</string>
-								<key>(g3_ASCII)LightBright</key>
-								<string>(g3_INT)1</string>
-							</dict>
+							<string>(g3_ASCII)LUMINOSITY</string>
+							<key>(g3_ASCII)GLOW</key>
+							<string>(g3_INT)1</string>
+							<key>(g3_ASCII)VALUE</key>
+							<string>(g3_FLOAT)1.000000</string>
 						</dict>
 						<dict>
 							<key>(g3_ASCII)FILTER</key>
-							<string>(g3_ASCII)(CI) M8 Contrast</string>
-							<key>(g3_ASCII)PARAMETERS</key>
-							<dict>
-								<key>(g3_ASCII)Boost</key>
-								<string>(g3_INT)1</string>
-								<key>(g3_ASCII)Invert</key>
-								<string>(g3_INT)0</string>
-								<key>(g3_ASCII)Level</key>
-								<string>(g3_FLOAT)0.280000</string>
-							</dict>
+							<string>(g3_ASCII)CONTRAST</string>
+							<key>(g3_ASCII)VALUE</key>
+							<string>(g3_FLOAT)6.600000</string>
 						</dict>
 						<dict>
+							<key>(g3_ASCII)ALPHA_WRITE_MODE</key>
+							<string>(g3_ASCII)MULTIPLY</string>
 							<key>(g3_ASCII)FILTER</key>
-							<string>(g3_ASCII)(CI) M8 Lumakey</string>
-							<key>(g3_ASCII)PARAMETERS</key>
-							<dict>
-								<key>(g3_ASCII)PreserveAlpha</key>
-								<string>(g3_INT)1</string>
-								<key>(g3_ASCII)Type</key>
-								<string>(g3_INT)0</string>
-							</dict>
+							<string>(g3_ASCII)LUMAKEY</string>
+							<key>(g3_ASCII)SOURCE</key>
+							<string>(g3_ASCII)DARK</string>
 						</dict>
 						<dict/>
 						<dict/>
@@ -59733,7 +59674,20 @@ as.</string>
 		<key>(g3_ASCII)Zoom Preview (ui)</key>
 		<dict/>
 		<key>OSC native (global)</key>
-		<dict/>
+		<dict>
+			<key>(g3_ASCII)-1</key>
+			<dict>
+				<key>(g3_ASCII)__AUTO_SERIALIZE</key>
+				<dict>
+					<key>(g3_ASCII)47</key>
+					<string>(g3_INT)0</string>
+					<key>(g3_ASCII)48</key>
+					<string>(g3_INT)0</string>
+					<key>(g3_ASCII)57</key>
+					<string>(g3_INT)0</string>
+				</dict>
+			</dict>
+		</dict>
 		<key>Perspective Transform</key>
 		<dict/>
 		<key>Syphon Input (layer)</key>
@@ -59775,7 +59729,7 @@ as.</string>
 			<key>(g3_ASCII)name</key>
 			<string>OSC native (global)</string>
 			<key>(g3_ASCII)state</key>
-			<string>(g3_ASCII)Stopped</string>
+			<string>(g3_ASCII)Playing</string>
 		</dict>
 		<dict>
 			<key>(g3_ASCII)name</key>
