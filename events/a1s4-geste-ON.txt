@@ -1,1 +1,1 @@
-** AUTO noir +8s -> geste ON/modul8/set/B 5/modul8.8/color/alpha 1. 3500 -0.1/modul8.9/color/alpha 0.77 3500 -0.1/modul8.10/color/alpha 0.625 3500 -0.1// /shutter/lointain 0// /shutter/cour 0// /shutter/jardin 0/midinote.1/note.1/map/delete /cuesheet.1/go3500
+** AUTO noir +8s -> geste ON;/modul8/set/B 5;/modul8.8/color/alpha 1. 3500 -0.1;/modul8.9/color/alpha 0.77 3500 -0.1;/modul8.10/color/alpha 0.625 3500 -0.1;// /shutter/lointain 0;// /shutter/cour 0;// /shutter/jardin 0;/midinote.1/note.1/map/delete /cuesheet.1/go;3500;

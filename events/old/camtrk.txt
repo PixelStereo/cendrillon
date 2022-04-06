@@ -1,11 +1,11 @@
-** replace for comment
-/mapper.3/sw 1
-/mapper.3/source /centroidA_x
-/mapper.3/speedlim 15
-/mapper.3/rampup 0.
-/mapper.3/rampdown 0.
-/mapper.4/sw 1
-/mapper.4/source /centroidA_y
-/mapper.4/speedlim 22
-/mapper.4/rampup 0.
-/mapper.4/rampdown 0.
+** replace for comment;
+/mapper.3/sw 1;
+/mapper.3/source /centroidA_x;
+/mapper.3/speedlim 15;
+/mapper.3/rampup 0.;
+/mapper.3/rampdown 0.;
+/mapper.4/sw 1;
+/mapper.4/source /centroidA_y;
+/mapper.4/speedlim 22;
+/mapper.4/rampup 0.;
+/mapper.4/rampdown 0.;

@@ -1,1 +1,1 @@
-** replace for comment/vdmx /scene1 1
+** replace for comment;/vdmx /scene1 1;

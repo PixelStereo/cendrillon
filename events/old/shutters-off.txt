@@ -1,3 +1,3 @@
-** replace for comment
-/isadora /shutter/cour 0
-/isadora /shutter/jardin 0
+** replace for comment;
+/isadora /shutter/cour 0;
+/isadora /shutter/jardin 0;

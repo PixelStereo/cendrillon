@@ -1,1 +1,1 @@
-// /shutter/lointain 1// /shutter/cour 1// /shutter/jardin 1/random.1/init bang/random.2/init bang100/modul8.6/color/alpha 0/modul8.7/color/alpha 0/modul8.8/color/alpha 0/modul8.9/color/alpha 0/modul8.10/color/alpha 0/modul8.1/color/alpha 0
+// /shutter/lointain 1;// /shutter/cour 1;// /shutter/jardin 1;/random.1/init bang;/random.2/init bang;100;/modul8.6/color/alpha 0;/modul8.7/color/alpha 0;/modul8.8/color/alpha 0;/modul8.9/color/alpha 0;/modul8.10/color/alpha 0;/modul8.1/color/alpha 0;

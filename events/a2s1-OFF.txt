@@ -1,1 +1,1 @@
-** Noir + 18s : Annonce ON/modul8/set/A 1/modul8.1/color/alpha 0./modul8.3/color/alpha 0./modul8.2/color/alpha 0./modul8.4/color/alpha 0./modul8.5/color/alpha 0.// /shutter/lointain 1// /shutter/cour 1// /shutter/jardin 1
+** Noir + 18s : Annonce ON/modul8/set/A 1;/modul8.1/color/alpha 0.;/modul8.3/color/alpha 0.;/modul8.2/color/alpha 0.;/modul8.4/color/alpha 0.;/modul8.5/color/alpha 0.;// /shutter/lointain 1;// /shutter/cour 1;// /shutter/jardin 1;

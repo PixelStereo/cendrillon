@@ -1,1 +1,1 @@
-/modul8.7/color/alpha 0/modul8.9/color/alpha 0// /shutter/lointain 1// /shutter/cour 1// /shutter/jardin 1
+/modul8.7/color/alpha 0;/modul8.9/color/alpha 0;// /shutter/lointain 1;// /shutter/cour 1;// /shutter/jardin 1;

@@ -1,1 +1,1 @@
-/modul8.1/entrypoint 0./modul8.1/color/alpha 0.5 1000010000/modul8.2/entrypoint 0/modul8.2/rate 0/modul8.2/color/green 1/modul8.2/color/blue 1/modul8.2/color/alpha 1. 500500/modul8.2/rate 0.25/modul8.3/color/alpha 0. 5000 0.1
+/modul8.1/entrypoint 0.;/modul8.1/color/alpha 0.5 10000;10000;/modul8.2/entrypoint 0;/modul8.2/rate 0;/modul8.2/color/green 1;/modul8.2/color/blue 1;/modul8.2/color/alpha 1. 500;500;/modul8.2/rate 0.25;/modul8.3/color/alpha 0. 5000 0.1;
