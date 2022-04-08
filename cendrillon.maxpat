@@ -872,7 +872,7 @@
 					"presentation" : 1,
 					"presentation_linecount" : 3,
 					"presentation_rect" : [ 505.75, 55.172591999999995, 119.0, 47.0 ],
-					"text" : "cendrillon v2\nLouis Brouillard\n©Pixel Stereo 2022 ",
+					"text" : "cendrillon v3\nLouis Brouillard\n©Pixel Stereo 2022 ",
 					"textjustification" : 1
 				}
 
@@ -1527,7 +1527,7 @@
 										}
 ,
 										"classnamespace" : "box",
-										"rect" : [ 59.0, 104.0, 1033.0, 382.0 ],
+										"rect" : [ 59.0, 104.0, 1018.0, 376.0 ],
 										"bglocked" : 0,
 										"openinpresentation" : 0,
 										"default_fontsize" : 12.0,
@@ -1556,6 +1556,42 @@
 										"subpatcher_template" : "",
 										"assistshowspatchername" : 0,
 										"boxes" : [ 											{
+												"box" : 												{
+													"id" : "obj-14",
+													"maxclass" : "newobj",
+													"numinlets" : 2,
+													"numoutlets" : 1,
+													"outlettype" : [ "int" ],
+													"patching_rect" : [ 187.5, 255.726379822429976, 33.0, 22.0 ],
+													"text" : "== 0"
+												}
+
+											}
+, 											{
+												"box" : 												{
+													"id" : "obj-13",
+													"maxclass" : "newobj",
+													"numinlets" : 2,
+													"numoutlets" : 1,
+													"outlettype" : [ "int" ],
+													"patching_rect" : [ 97.0, 255.726379822429976, 33.0, 22.0 ],
+													"text" : "== 0"
+												}
+
+											}
+, 											{
+												"box" : 												{
+													"id" : "obj-5",
+													"maxclass" : "newobj",
+													"numinlets" : 2,
+													"numoutlets" : 1,
+													"outlettype" : [ "int" ],
+													"patching_rect" : [ 8.5, 255.726379822429976, 33.0, 22.0 ],
+													"text" : "== 0"
+												}
+
+											}
+, 											{
 												"box" : 												{
 													"color" : [ 0.317647, 0.654902, 0.976471, 1.0 ],
 													"id" : "obj-12",
@@ -1951,7 +1987,7 @@
  ],
 										"lines" : [ 											{
 												"patchline" : 												{
-													"destination" : [ "obj-12", 0 ],
+													"destination" : [ "obj-14", 0 ],
 													"source" : [ "obj-10", 0 ]
 												}
 
@@ -2063,6 +2099,20 @@
 											}
 , 											{
 												"patchline" : 												{
+													"destination" : [ "obj-11", 0 ],
+													"source" : [ "obj-13", 0 ]
+												}
+
+											}
+, 											{
+												"patchline" : 												{
+													"destination" : [ "obj-12", 0 ],
+													"source" : [ "obj-14", 0 ]
+												}
+
+											}
+, 											{
+												"patchline" : 												{
 													"destination" : [ "obj-1", 0 ],
 													"source" : [ "obj-2", 0 ]
 												}
@@ -2070,8 +2120,15 @@
 											}
 , 											{
 												"patchline" : 												{
-													"destination" : [ "obj-3", 0 ],
+													"destination" : [ "obj-5", 0 ],
 													"source" : [ "obj-4", 0 ]
+												}
+
+											}
+, 											{
+												"patchline" : 												{
+													"destination" : [ "obj-3", 0 ],
+													"source" : [ "obj-5", 0 ]
 												}
 
 											}
@@ -2161,7 +2218,7 @@
 											}
 , 											{
 												"patchline" : 												{
-													"destination" : [ "obj-11", 0 ],
+													"destination" : [ "obj-13", 0 ],
 													"source" : [ "obj-9", 0 ]
 												}
 
@@ -3307,13 +3364,6 @@
 , 			{
 				"name" : "bytecount.mxo",
 				"type" : "iLaX"
-			}
-, 			{
-				"name" : "cuesheet.1.txt",
-				"bootpath" : "~/Documents/GITs/cendrillon/data",
-				"patcherrelativepath" : "./data",
-				"type" : "TEXT",
-				"implicit" : 1
 			}
 , 			{
 				"name" : "evman.maxpat",
