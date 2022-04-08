@@ -503,7 +503,7 @@
 						}
 ,
 						"classnamespace" : "box",
-						"rect" : [ 59.0, 104.0, 640.0, 480.0 ],
+						"rect" : [ 59.0, 104.0, 279.0, 250.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 0,
 						"default_fontsize" : 12.0,
@@ -539,7 +539,7 @@
 									"numinlets" : 2,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
-									"patching_rect" : [ 50.0, 100.0, 217.0, 183.0 ],
+									"patching_rect" : [ 15.0, 49.0, 217.0, 183.0 ],
 									"text" : ";\r/events.1/oscsendname/initval <none>;\r/events.1/localsend/initval 1;\r/events.1/interval/initval 20;\r/events.1/init bang;\r/mapper.1/sw/initval 1;\r/mapper.1/source/initval /video/amp;\r/mapper.1/speedlim/initval 21;\r/mapper.1/rampup/initval 0.;\r/mapper.1/rampdown/initval 0.;\r/mapper.1/init bang;\r/cuesheet.1/init bang;\r"
 								}
 
@@ -553,7 +553,7 @@
 									"numinlets" : 0,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
-									"patching_rect" : [ 50.0, 40.00000009345807, 30.0, 30.0 ]
+									"patching_rect" : [ 15.0, 3.00000009345807, 30.0, 30.0 ]
 								}
 
 							}
