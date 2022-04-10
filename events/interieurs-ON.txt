@@ -1,1 +1,0 @@
-/modul8/set/B 6;/modul8.6/color/alpha 1.;/modul8.7/color/alpha 1.;/modul8.10/color/alpha 1.;/shutter/jardin 0;/shutter/lointain 0;/shutter/cour 0;

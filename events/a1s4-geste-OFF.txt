@@ -1,3 +1,0 @@
-// /shutter/lointain 1;// /shutter/cour 1;// /shutter/jardin 1;/events.1/stop a1s4-geste-temps;/modul8.1/color/alpha 0.;/modul8.2/color/alpha 0.;/modul8.3/color/alpha 0.;// --------------------Declenchement a1s1 par MIDI-lumiere-----------------;/midinote.1/note.1/map /cuesheet.1/go 64. 64. 0. 1. trig 0. 0 0 0. 0. b;
-// --------------------Position de la camera pour scene essayage-----------------;
-/events.2/play visca/essayage;

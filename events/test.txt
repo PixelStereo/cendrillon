@@ -1,1 +1,0 @@
-/modul8.3/scale/uniform 0.;
