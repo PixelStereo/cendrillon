@@ -872,7 +872,7 @@
 					"presentation" : 1,
 					"presentation_linecount" : 3,
 					"presentation_rect" : [ 505.75, 55.172591999999995, 119.0, 47.0 ],
-					"text" : "cendrillon v3\nLouis Brouillard\n©Pixel Stereo 2022 ",
+					"text" : "cendrillon v4\nLouis Brouillard\n©Pixel Stereo 2022 ",
 					"textjustification" : 1
 				}
 
@@ -3364,6 +3364,13 @@
 , 			{
 				"name" : "bytecount.mxo",
 				"type" : "iLaX"
+			}
+, 			{
+				"name" : "cuesheet.1.txt",
+				"bootpath" : "~/Documents/GITs/cendrillon/data",
+				"patcherrelativepath" : "./data",
+				"type" : "TEXT",
+				"implicit" : 1
 			}
 , 			{
 				"name" : "evman.maxpat",

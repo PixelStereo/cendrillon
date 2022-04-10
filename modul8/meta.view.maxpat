@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 85.0, 79.0, 800.0, 164.0 ],
+		"rect" : [ 85.0, 79.0, 1157.0, 215.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
 		"default_fontsize" : 12.0,
@@ -39,6 +39,30 @@
 		"subpatcher_template" : "",
 		"assistshowspatchername" : 0,
 		"boxes" : [ 			{
+				"box" : 				{
+					"id" : "obj-4",
+					"maxclass" : "newobj",
+					"numinlets" : 2,
+					"numoutlets" : 2,
+					"outlettype" : [ "", "" ],
+					"patching_rect" : [ 708.0, 82.123813190500954, 299.0, 22.0 ],
+					"text" : "makeparam /metaswitch.1/label /instruments s <none>"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"id" : "obj-5",
+					"maxclass" : "newobj",
+					"numinlets" : 2,
+					"numoutlets" : 2,
+					"outlettype" : [ "", "" ],
+					"patching_rect" : [ 708.0, 25.0, 293.0, 22.0 ],
+					"text" : "makeparam /metafader.1/label /instruments s <none>"
+				}
+
+			}
+, 			{
 				"box" : 				{
 					"id" : "obj-43",
 					"maxclass" : "toggle",
@@ -122,7 +146,8 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 255.0, 90.64947772026062, 150.0, 20.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 346.0, 7.5, 150.0, 20.0 ]
+					"presentation_rect" : [ 346.0, 7.5, 150.0, 20.0 ],
+					"text" : "<none>"
 				}
 
 			}
@@ -149,7 +174,8 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 270.0, 15.0, 150.0, 20.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 98.0, 6.5, 150.0, 20.0 ]
+					"presentation_rect" : [ 98.0, 6.5, 150.0, 20.0 ],
+					"text" : "<none>"
 				}
 
 			}
@@ -298,57 +324,6 @@
 
 			}
  ],
-		"dependency_cache" : [ 			{
-				"name" : "explinlog.maxpat",
-				"bootpath" : "~/Documents/GITs/cendrillon/modul8",
-				"patcherrelativepath" : ".",
-				"type" : "JSON",
-				"implicit" : 1
-			}
-, 			{
-				"name" : "linecurv.maxpat",
-				"bootpath" : "~/Documents/GITs/cendrillon/modul8",
-				"patcherrelativepath" : ".",
-				"type" : "JSON",
-				"implicit" : 1
-			}
-, 			{
-				"name" : "makeparam.maxpat",
-				"bootpath" : "~/Documents/GITs/cendrillon/modul8",
-				"patcherrelativepath" : ".",
-				"type" : "JSON",
-				"implicit" : 1
-			}
-, 			{
-				"name" : "minmaxf.maxpat",
-				"bootpath" : "~/Documents/GITs/cendrillon/modul8",
-				"patcherrelativepath" : ".",
-				"type" : "JSON",
-				"implicit" : 1
-			}
-, 			{
-				"name" : "scalecurv.maxpat",
-				"bootpath" : "~/Documents/GITs/cendrillon/modul8",
-				"patcherrelativepath" : ".",
-				"type" : "JSON",
-				"implicit" : 1
-			}
-, 			{
-				"name" : "tm_alias.maxpat",
-				"bootpath" : "~/Documents/GITs/cendrillon/modul8",
-				"patcherrelativepath" : ".",
-				"type" : "JSON",
-				"implicit" : 1
-			}
-, 			{
-				"name" : "var.maxpat",
-				"bootpath" : "~/Library/Application Support/Cycling '74/Max 8/Examples/max-tricks/send-receive-tricks/lib",
-				"patcherrelativepath" : "../../../../Library/Application Support/Cycling '74/Max 8/Examples/max-tricks/send-receive-tricks/lib",
-				"type" : "JSON",
-				"implicit" : 1
-			}
- ],
-		"autosave" : 0,
 		"styles" : [ 			{
 				"name" : "AudioStatus_Menu",
 				"default" : 				{
