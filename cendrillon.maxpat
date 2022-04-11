@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 854.0, 87.0, 644.0, 157.0 ],
+		"rect" : [ 853.0, 84.0, 644.0, 157.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
 		"default_fontsize" : 12.0,
@@ -1630,7 +1630,7 @@
 						}
 ,
 						"classnamespace" : "box",
-						"rect" : [ 876.0, 345.0, 718.0, 331.0 ],
+						"rect" : [ 851.0, 343.0, 718.0, 331.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 0,
 						"default_fontsize" : 12.0,
@@ -3992,7 +3992,7 @@
 					"presentation" : 1,
 					"presentation_linecount" : 3,
 					"presentation_rect" : [ 505.75, 55.172591999999995, 119.0, 47.0 ],
-					"text" : "cendrillon v5\nLouis Brouillard\n©Pixel Stereo 2022 ",
+					"text" : "cendrillon v6\nLouis Brouillard\n©Pixel Stereo 2022 ",
 					"textjustification" : 1
 				}
 
