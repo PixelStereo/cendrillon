@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 407.0, 367.0, 1052.0, 275.0 ],
+		"rect" : [ 864.0, 507.0, 1052.0, 275.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -39,6 +39,100 @@
 		"subpatcher_template" : "",
 		"assistshowspatchername" : 0,
 		"boxes" : [ 			{
+				"box" : 				{
+					"id" : "obj-22",
+					"maxclass" : "newobj",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patcher" : 					{
+						"fileversion" : 1,
+						"appversion" : 						{
+							"major" : 8,
+							"minor" : 2,
+							"revision" : 2,
+							"architecture" : "x64",
+							"modernui" : 1
+						}
+,
+						"classnamespace" : "box",
+						"rect" : [ 1521.0, 705.0, 574.0, 622.0 ],
+						"bglocked" : 0,
+						"openinpresentation" : 0,
+						"default_fontsize" : 12.0,
+						"default_fontface" : 0,
+						"default_fontname" : "Arial",
+						"gridonopen" : 1,
+						"gridsize" : [ 15.0, 15.0 ],
+						"gridsnaponopen" : 1,
+						"objectsnaponopen" : 1,
+						"statusbarvisible" : 2,
+						"toolbarvisible" : 1,
+						"lefttoolbarpinned" : 0,
+						"toptoolbarpinned" : 0,
+						"righttoolbarpinned" : 0,
+						"bottomtoolbarpinned" : 0,
+						"toolbars_unpinned_last_save" : 0,
+						"tallnewobj" : 0,
+						"boxanimatetime" : 200,
+						"enablehscroll" : 1,
+						"enablevscroll" : 1,
+						"devicewidth" : 0.0,
+						"description" : "",
+						"digest" : "",
+						"tags" : "",
+						"style" : "",
+						"subpatcher_template" : "",
+						"assistshowspatchername" : 0,
+						"boxes" : [ 							{
+								"box" : 								{
+									"id" : "obj-13",
+									"linecount" : 35,
+									"maxclass" : "message",
+									"numinlets" : 2,
+									"numoutlets" : 1,
+									"outlettype" : [ "" ],
+									"patching_rect" : [ 50.0, 100.0, 494.0, 491.0 ],
+									"text" : ";\n#1/sw/init bang;\r#1/name/init bang;\r#1/rate/init bang;\r#1/entrypoint/init bang;\r#1/color/alpha/init bang;\r#1/color/red/init bang;\r#1/color/green/init bang;\r#1/color/blue/init bang;\r#1/color/add/red/init bang;\r#1/color/add/green/init bang;\r#1/color/add/blue/init bang;\r#1/scale/x/init bang;\r#1/scale/uniform/init bang;\r#1/offset/x/init bang;\r#1/offset/y/init bang;\r#1/pos/x/init bang;\r#1/pos/y/init bang;\r#1/rot/z/init bang;\r#1/br/level/init bang;\r#1/noise/level/init bang;\r#1/blur/sw/init bang;\r#1/blur/level/init bang;\r#1/txt/init bang;\r#1/auto/move/sw/init bang;\r#1/auto/move/speed/init bang;\r#1/auto/move/size/init bang;\r#1/auto/scale/sw/init bang;\r#1/auto/scale/speed/init bang;\r#1/auto/scale/size/init bang;\r#1/auto/color/sw/init bang;\r#1/auto/rotate/sw/init bang;\r#1/auto/rotate/x/init bang;\r#1/auto/rotate/z/init bang;\r#1/auto/rotate/x/reverse/init bang;"
+								}
+
+							}
+, 							{
+								"box" : 								{
+									"comment" : "",
+									"id" : "obj-21",
+									"index" : 1,
+									"maxclass" : "inlet",
+									"numinlets" : 0,
+									"numoutlets" : 1,
+									"outlettype" : [ "bang" ],
+									"patching_rect" : [ 50.0, 40.0, 30.0, 30.0 ]
+								}
+
+							}
+ ],
+						"lines" : [ 							{
+								"patchline" : 								{
+									"destination" : [ "obj-13", 0 ],
+									"source" : [ "obj-21", 0 ]
+								}
+
+							}
+ ]
+					}
+,
+					"patching_rect" : [ 152.5, 64.0, 41.0, 22.0 ],
+					"saved_object_attributes" : 					{
+						"description" : "",
+						"digest" : "",
+						"globalpatchername" : "",
+						"tags" : ""
+					}
+,
+					"text" : "p INIT"
+				}
+
+			}
+, 			{
 				"box" : 				{
 					"color" : [ 0.156863, 0.8, 0.54902, 1.0 ],
 					"fontname" : "Arial",
@@ -92,6 +186,7 @@
 									"fontname" : "Arial",
 									"fontsize" : 9.0,
 									"id" : "obj-1",
+									"linecount" : 2,
 									"maxclass" : "newobj",
 									"numinlets" : 1,
 									"numoutlets" : 1,
@@ -210,6 +305,7 @@
 									"fontname" : "Arial",
 									"fontsize" : 9.0,
 									"id" : "obj-2",
+									"linecount" : 2,
 									"maxclass" : "newobj",
 									"numinlets" : 1,
 									"numoutlets" : 1,
@@ -224,6 +320,7 @@
 									"fontname" : "Arial",
 									"fontsize" : 9.0,
 									"id" : "obj-3",
+									"linecount" : 2,
 									"maxclass" : "newobj",
 									"numinlets" : 1,
 									"numoutlets" : 1,
@@ -611,6 +708,7 @@
 									"fontname" : "Arial",
 									"fontsize" : 9.0,
 									"id" : "obj-9",
+									"linecount" : 2,
 									"maxclass" : "newobj",
 									"numinlets" : 2,
 									"numoutlets" : 2,
@@ -667,6 +765,7 @@
 									"fontname" : "Arial",
 									"fontsize" : 9.0,
 									"id" : "obj-13",
+									"linecount" : 2,
 									"maxclass" : "newobj",
 									"numinlets" : 1,
 									"numoutlets" : 1,
@@ -681,6 +780,7 @@
 									"fontname" : "Arial",
 									"fontsize" : 9.0,
 									"id" : "obj-14",
+									"linecount" : 2,
 									"maxclass" : "newobj",
 									"numinlets" : 1,
 									"numoutlets" : 1,
@@ -941,6 +1041,7 @@
 									"fontname" : "Arial",
 									"fontsize" : 9.0,
 									"id" : "obj-1",
+									"linecount" : 2,
 									"maxclass" : "newobj",
 									"numinlets" : 1,
 									"numoutlets" : 1,
@@ -1384,6 +1485,7 @@
 									"fontname" : "Arial",
 									"fontsize" : 9.0,
 									"id" : "obj-1",
+									"linecount" : 2,
 									"maxclass" : "newobj",
 									"numinlets" : 1,
 									"numoutlets" : 1,
@@ -1398,6 +1500,7 @@
 									"fontname" : "Arial",
 									"fontsize" : 9.0,
 									"id" : "obj-2",
+									"linecount" : 2,
 									"maxclass" : "newobj",
 									"numinlets" : 1,
 									"numoutlets" : 1,
@@ -1412,6 +1515,7 @@
 									"fontname" : "Arial",
 									"fontsize" : 9.0,
 									"id" : "obj-3",
+									"linecount" : 2,
 									"maxclass" : "newobj",
 									"numinlets" : 1,
 									"numoutlets" : 1,
@@ -1426,6 +1530,7 @@
 									"fontname" : "Arial",
 									"fontsize" : 9.0,
 									"id" : "obj-4",
+									"linecount" : 2,
 									"maxclass" : "newobj",
 									"numinlets" : 1,
 									"numoutlets" : 1,
@@ -1440,6 +1545,7 @@
 									"fontname" : "Arial",
 									"fontsize" : 9.0,
 									"id" : "obj-5",
+									"linecount" : 2,
 									"maxclass" : "newobj",
 									"numinlets" : 1,
 									"numoutlets" : 1,
@@ -1454,6 +1560,7 @@
 									"fontname" : "Arial",
 									"fontsize" : 9.0,
 									"id" : "obj-6",
+									"linecount" : 2,
 									"maxclass" : "newobj",
 									"numinlets" : 1,
 									"numoutlets" : 1,
@@ -1468,6 +1575,7 @@
 									"fontname" : "Arial",
 									"fontsize" : 9.0,
 									"id" : "obj-7",
+									"linecount" : 2,
 									"maxclass" : "newobj",
 									"numinlets" : 1,
 									"numoutlets" : 1,
@@ -1691,6 +1799,7 @@
 									"fontname" : "Arial",
 									"fontsize" : 9.0,
 									"id" : "obj-7",
+									"linecount" : 2,
 									"maxclass" : "newobj",
 									"numinlets" : 1,
 									"numoutlets" : 1,
@@ -1705,6 +1814,7 @@
 									"fontname" : "Arial",
 									"fontsize" : 9.0,
 									"id" : "obj-9",
+									"linecount" : 2,
 									"maxclass" : "newobj",
 									"numinlets" : 1,
 									"numoutlets" : 1,
@@ -1719,6 +1829,7 @@
 									"fontname" : "Arial",
 									"fontsize" : 9.0,
 									"id" : "obj-15",
+									"linecount" : 2,
 									"maxclass" : "newobj",
 									"numinlets" : 1,
 									"numoutlets" : 1,
@@ -1733,6 +1844,7 @@
 									"fontname" : "Arial",
 									"fontsize" : 9.0,
 									"id" : "obj-16",
+									"linecount" : 2,
 									"maxclass" : "newobj",
 									"numinlets" : 1,
 									"numoutlets" : 1,
@@ -1761,6 +1873,7 @@
 									"fontname" : "Arial",
 									"fontsize" : 9.0,
 									"id" : "obj-19",
+									"linecount" : 2,
 									"maxclass" : "newobj",
 									"numinlets" : 1,
 									"numoutlets" : 1,
@@ -2041,7 +2154,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "bang" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 133.0, 69.0, 15.0, 15.0 ]
+					"patching_rect" : [ 153.0, 41.0, 15.0, 15.0 ]
 				}
 
 			}
@@ -2055,7 +2168,7 @@
 					"numinlets" : 0,
 					"numoutlets" : 1,
 					"outlettype" : [ "bang" ],
-					"patching_rect" : [ 133.0, 49.0, 151.0, 19.0 ],
+					"patching_rect" : [ 153.0, 21.0, 151.0, 19.0 ],
 					"text" : "moduleinit #1"
 				}
 
@@ -2627,22 +2740,6 @@
 				}
 
 			}
-, 			{
-				"box" : 				{
-					"color" : [ 1.0, 0.890196, 0.090196, 1.0 ],
-					"fontname" : "Arial",
-					"fontsize" : 9.0,
-					"id" : "obj-20",
-					"maxclass" : "newobj",
-					"numinlets" : 1,
-					"numoutlets" : 3,
-					"outlettype" : [ "", "bang", "bang" ],
-					"patching_rect" : [ 133.0, 87.0, 40.0, 19.0 ],
-					"save" : [ "#N", "qlist", ";", "#X", "insert", "0/sw/init", "bang", ";", ";", "#X", "insert", "0/name/init", "bang", ";", ";", "#X", "insert", "0/direction/init", "bang", ";", ";", "#X", "insert", "0/rate/init", "bang", ";", ";", "#X", "insert", "0/loop/init", "bang", ";", ";", "#X", "insert", "0/loop/in/init", "bang", ";", ";", "#X", "insert", "0/loop/out/init", "bang", ";", ";", "#X", "insert", "0/entrypoint/init", "bang", ";", ";", "#X", "insert", "0/scratch/init", "bang", ";", ";", "#X", "insert", "0/color/alpha/init", "bang", ";", ";", "#X", "insert", "0/color/red/init", "bang", ";", ";", "#X", "insert", "0/color/green/init", "bang", ";", ";", "#X", "insert", "0/color/blue/init", "bang", ";", ";", "#X", "insert", "0/color/add/red/init", "bang", ";", ";", "#X", "insert", "0/color/add/green/init", "bang", ";", ";", "#X", "insert", "0/color/add/blue/init", "bang", ";", ";", "#X", "insert", "0/scale/x/init", "bang", ";", ";", "#X", "insert", "0/scale/y/init", "bang", ";", ";", "#X", "insert", "0/scale/z/init", "bang", ";", ";", "#X", "insert", "0/scale/xyz/factor/init", "bang", ";", ";", "#X", "insert", "0/scale/uniform/init", "bang", ";", ";", "#X", "insert", "0/offset/x/init", "bang", ";", ";", "#X", "insert", "0/offset/y/init", "bang", ";", ";", "#X", "insert", "0/pos/x/init", "bang", ";", ";", "#X", "insert", "0/pos/y/init", "bang", ";", ";", "#X", "insert", "0/rot/x/init", "bang", ";", ";", "#X", "insert", "0/rot/y/init", "bang", ";", ";", "#X", "insert", "0/rot/z/init", "bang", ";", ";", "#X", "insert", "0/sa/sw/init", "bang", ";", ";", "#X", "insert", "0/sa/level/init", "bang", ";", ";", "#X", "insert", "0/sa/boost/init", "bang", ";", ";", "#X", "insert", "0/sa/invert/init", "bang", ";", ";", "#X", "insert", "0/br/sw/init", "bang", ";", ";", "#X", "insert", "0/br/level/init", "bang", ";", ";", "#X", "insert", "0/br/mode/init", "bang", ";", ";", "#X", "insert", "0/co/sw/init", "bang", ";", ";", "#X", "insert", "0/co/level/init", "bang", ";", ";", "#X", "insert", "0/co/boost/init", "bang", ";", ";", "#X", "insert", "0/co/invert/init", "bang", ";", ";", "#X", "insert", "0/lumakey/sw/init", "bang", ";", ";", "#X", "insert", "0/lumakey/mode/init", "bang", ";", ";", "#X", "insert", "0/lumakey/preserve_alpha/init", "bang", ";", ";", "#X", "insert", "0/noise/sw/init", "bang", ";", ";", "#X", "insert", "0/noise/color/sw/init", "bang", ";", ";", "#X", "insert", "0/noise/dest/alpha/init", "bang", ";", ";", "#X", "insert", "0/noise/dest/rgb/init", "bang", ";", ";", "#X", "insert", "0/noise/level/init", "bang", ";", ";", "#X", "insert", "0/blur/sw/init", "bang", ";", ";", "#X", "insert", "0/blur/level/init", "bang", ";", ";", "#X", "insert", "0/blur/mode/init", "bang", ";", ";", "#X", "insert", "0/txt/init", "bang", ";", ";", "#X", "insert", "0/txt/font/init", "bang", ";", ";", "#X", "insert", "0/txt/size/init", "bang", ";", ";", "#X", "insert", "0/txt/index/init", "bang", ";", ";", "#X", "insert", "0/auto/move/sw/init", "bang", ";", ";", "#X", "insert", "0/auto/move/mode/init", "bang", ";", ";", "#X", "insert", "0/auto/move/speed/init", "bang", ";", ";", "#X", "insert", "0/auto/move/size/init", "bang", ";", ";", "#X", "insert", "0/auto/move/strob/init", "bang", ";", ";", "#X", "insert", "0/auto/scale/sw/init", "bang", ";", ";", "#X", "insert", "0/auto/scale/mode/init", "bang", ";", ";", "#X", "insert", "0/auto/scale/speed/init", "bang", ";", ";", "#X", "insert", "0/auto/scale/size/init", "bang", ";", ";", "#X", "insert", "0/auto/scale/strob/init", "bang", ";", ";", "#X", "insert", "0/auto/color/sw/init", "bang", ";", ";", "#X", "insert", "0/auto/color/mode/init", "bang", ";", ";", "#X", "insert", "0/auto/color/red/init", "bang", ";", ";", "#X", "insert", "0/auto/color/green/init", "bang", ";", ";", "#X", "insert", "0/auto/color/blue/init", "bang", ";", ";", "#X", "insert", "0/auto/color/alpha/init", "bang", ";", ";", "#X", "insert", "0/auto/rotate/sw/init", "bang", ";", ";", "#X", "insert", "0/auto/rotate/x/init", "bang", ";", ";", "#X", "insert", "0/auto/rotate/y/init", "bang", ";", ";", "#X", "insert", "0/auto/rotate/z/init", "bang", ";", ";", "#X", "insert", "0/auto/rotate/x/reverse/init", "bang", ";", ";", "#X", "insert", "0/auto/rotate/y/reverse/init", "bang", ";", ";", "#X", "insert", "0/auto/rotate/z/reverse/init", "bang", ";", ";", "#X", "insert", "0/fx/sw/init", "bang", ";", ";", "#X", "insert", "0/fx/type/init", "bang", ";", ";", "#X", "insert", "0/fx/matrix/x/init", "bang", ";", ";", "#X", "insert", "0/fx/matrix/y/init", "bang", ";", ";", "#X", "insert", "0/fx/matrix/z/init", "bang", ";", ";" ],
-					"text" : "qlist"
-				}
-
-			}
  ],
 		"lines" : [ 			{
 				"patchline" : 				{
@@ -2654,7 +2751,7 @@
 			}
 , 			{
 				"patchline" : 				{
-					"destination" : [ "obj-20", 0 ],
+					"destination" : [ "obj-22", 0 ],
 					"source" : [ "obj-11", 0 ]
 				}
 

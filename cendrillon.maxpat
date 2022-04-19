@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 853.0, 84.0, 644.0, 157.0 ],
+		"rect" : [ 828.0, 223.0, 637.0, 154.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
 		"default_fontsize" : 12.0,
@@ -40,6 +40,47 @@
 		"assistshowspatchername" : 0,
 		"boxes" : [ 			{
 				"box" : 				{
+					"id" : "obj-16",
+					"maxclass" : "newobj",
+					"numinlets" : 1,
+					"numoutlets" : 1,
+					"outlettype" : [ "open" ],
+					"patching_rect" : [ 164.0, 94.0, 42.0, 22.0 ],
+					"text" : "t open"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"id" : "obj-14",
+					"maxclass" : "textbutton",
+					"numinlets" : 1,
+					"numoutlets" : 3,
+					"outlettype" : [ "", "", "int" ],
+					"parameter_enable" : 0,
+					"patching_rect" : [ 164.0, 66.0, 55.0, 20.0 ],
+					"presentation" : 1,
+					"presentation_rect" : [ 505.75, 91.345184000000003, 119.0, 28.0 ],
+					"text" : "OPEN CUESHEET"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"color" : [ 0.6, 0.6, 1.0, 1.0 ],
+					"fontname" : "Arial",
+					"fontsize" : 11.0,
+					"id" : "obj-13",
+					"maxclass" : "newobj",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 164.0, 130.0, 91.0, 21.0 ],
+					"text" : "s /cuesheet.1/file"
+				}
+
+			}
+, 			{
+				"box" : 				{
 					"color" : [ 1.0, 0.0, 0.0, 1.0 ],
 					"fontname" : "Arial",
 					"fontsize" : 9.0,
@@ -48,7 +89,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 167.0, 114.172592000000009, 86.0, 19.0 ],
+					"patching_rect" : [ 297.0, 119.172592000000009, 86.0, 19.0 ],
 					"saved_object_attributes" : 					{
 						"filename" : "pxst.properties.js",
 						"parameter_enable" : 0
@@ -78,7 +119,7 @@
 						}
 ,
 						"classnamespace" : "box",
-						"rect" : [ 59.0, 104.0, 591.0, 472.0 ],
+						"rect" : [ 174.0, 746.0, 591.0, 472.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 0,
 						"default_fontsize" : 12.0,
@@ -137,7 +178,7 @@
 										}
 ,
 										"classnamespace" : "box",
-										"rect" : [ 58.0, 104.0, 279.0, 250.0 ],
+										"rect" : [ 58.0, 104.0, 362.0, 402.0 ],
 										"bglocked" : 0,
 										"openinpresentation" : 0,
 										"default_fontsize" : 12.0,
@@ -168,13 +209,13 @@
 										"boxes" : [ 											{
 												"box" : 												{
 													"id" : "obj-20",
-													"linecount" : 12,
+													"linecount" : 22,
 													"maxclass" : "message",
 													"numinlets" : 2,
 													"numoutlets" : 1,
 													"outlettype" : [ "" ],
-													"patching_rect" : [ 15.0, 49.0, 217.0, 183.0 ],
-													"text" : ";\r/events.1/oscsendname/initval <none>;\r/events.1/localsend/initval 1;\r/events.1/interval/initval 20;\r/events.1/init bang;\r/mapper.1/sw/initval 1;\r/mapper.1/source/initval /video/amp;\r/mapper.1/speedlim/initval 21;\r/mapper.1/rampup/initval 0.;\r/mapper.1/rampdown/initval 0.;\r/mapper.1/init bang;\r/cuesheet.1/init bang;\r"
+													"patching_rect" : [ 15.0, 49.0, 321.0, 317.0 ],
+													"text" : ";\r/events.1/oscsendname/initval <none>;\r/events.1/localsend/initval 1;\r/events.1/interval/initval 20;\r/events.1/init bang;\r/mapper.1/sw/initval 1;\r/mapper.1/source/initval /video/amp;\r/mapper.1/speedlim/initval 21;\r/mapper.1/rampup/initval 0.;\r/mapper.1/rampdown/initval 0.;\r/mapper.1/init bang;\r/cuesheet.1/init bang;\r/modul8.1/init bang;\r/modul8.2/init bang;\r/modul8.3/init bang;\r/modul8.4/init bang;\r/modul8.5/init bang;\r/modul8.6/init bang;\r/modul8.7/init bang;\r/modul8.8/init bang;\r/modul8.9/init bang;\r/modul8.10/init bang;\r"
 												}
 
 											}
@@ -846,7 +887,7 @@
  ]
 					}
 ,
-					"patching_rect" : [ 267.0, 110.672592000000009, 52.0, 26.0 ],
+					"patching_rect" : [ 297.0, 85.672592000000009, 52.0, 26.0 ],
 					"saved_object_attributes" : 					{
 						"description" : "",
 						"digest" : "",
@@ -865,7 +906,7 @@
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 325.0, 109.345183999999961, 71.0, 22.0 ],
+					"patching_rect" : [ 351.0, 84.345183999999961, 71.0, 22.0 ],
 					"text" : "s __init__"
 				}
 
@@ -1605,7 +1646,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "bang" ],
-					"patching_rect" : [ 325.0, 82.845183999999946, 58.0, 22.0 ],
+					"patching_rect" : [ 351.0, 57.845183999999946, 58.0, 22.0 ],
 					"text" : "loadbang"
 				}
 
@@ -3991,8 +4032,8 @@
 					"patching_rect" : [ 6.25, 8.495021906541908, 98.0, 60.0 ],
 					"presentation" : 1,
 					"presentation_linecount" : 3,
-					"presentation_rect" : [ 505.75, 55.172591999999995, 119.0, 47.0 ],
-					"text" : "cendrillon v6\nLouis Brouillard\n©Pixel Stereo 2022 ",
+					"presentation_rect" : [ 505.75, 40.172591999999995, 119.0, 47.0 ],
+					"text" : "cendrillon v7\nLouis Brouillard\n©Pixel Stereo 2022 ",
 					"textjustification" : 1
 				}
 
@@ -4008,12 +4049,26 @@
 					"parameter_enable" : 0,
 					"patching_rect" : [ 6.25, 8.495021906541908, 98.0, 20.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 505.75, 55.172591999999995, 119.0, 47.0 ]
+					"presentation_rect" : [ 505.75, 40.172591999999995, 119.0, 47.0 ]
 				}
 
 			}
  ],
 		"lines" : [ 			{
+				"patchline" : 				{
+					"destination" : [ "obj-16", 0 ],
+					"source" : [ "obj-14", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-13", 0 ],
+					"source" : [ "obj-16", 0 ]
+				}
+
+			}
+, 			{
 				"patchline" : 				{
 					"destination" : [ "obj-28", 0 ],
 					"hidden" : 1,
@@ -4068,6 +4123,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-7", 0 ],
+					"midpoints" : [ 306.5, 140.0, 282.0, 140.0, 282.0, 80.0, 306.5, 80.0 ],
 					"source" : [ "obj-6", 0 ]
 				}
 
